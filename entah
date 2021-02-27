@@ -550,3 +550,114 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO", Radio Cakra 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.6ff7edcfce73b780542de6a1aefb1d94.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="Knowledge", Smithsonian
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.0bb86fe13fbee851c191bc127b1920c6.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="Knowledge", Love Nature 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gKZzJQlnbkDh4yK7k7QGNuOPuAE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/ec097d.png" tvg-id="RIYAN.fc4d3f421e1866c2ab5748f09e5bc1c1.SHINTA" tvg-name"[CODAY] Hip Hip Horee! _VIDIO" group-title="Kids",Hip Hip Horee!
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.6c057deb7d34617748eea669079b586a.SHINTA" tvg-name"[CODAY] Zoomoo _VIDIO" group-title="Kids", Zoomoo 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2xClnKTi4YEdc9K1dYqp0JnaI68=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6549/da-vinci-ef222f.jpg" tvg-id="RIYAN.6ef20acf0d0dff1a66eef9ca2db457e4.SHINTA" tvg-name"[CODAY] Da Vinci _VIDIO" group-title="Kids", Da Vinci 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
+
+
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Reef 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Eiffel I'm in Love 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=5d41a75be561acb86e8b8b8a4e5f6fb699c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Bridge to Terabithia 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=54b956934efc0b13dd9353ef49a3b33e99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Gerbang Neraka 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c2c18e1b7fe5d161ea574aae3d723fda99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Stand By Me Doraemon 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Kartini 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Soekarno 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Si Jago Merah 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b4d3d1b02487df3cea4d5b96e1575fce99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Calon Bini 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=3c2726e79ee947ec1950dff41a08d62199c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Laskar Pelangi 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6a7c7de7de7705b6e5fdf1803348649299c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Yowis Ben 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=55888cbc912830b69cbb5164922ab39799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Susah Sinyal 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Sesuai Aplikasi 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Ngenest 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=e3ef8db7933bf72c7c4f5ca8e75c9d5999c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Generasi Micin vs. Kevin 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c4fd1c73e7d864d6e5dfa38ace81393399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Orang Kaya Baru 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8e9f29832feedc2215da513958fbf59999c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Raid 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b6979253324331d349555c7165efed5599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Raid 2: Berandal 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6f365f090e980b8723302794c09f0f3699c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Underdogs 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0e9c8172242219a25bcaa0b9bbc8b5ae99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Warkop DKI - Godain Kita Dong 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Train to Busan 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Warkop DKI - Malu Malu Mau 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Warkop DKI - Saya Suka Kamu Punya 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Kawin Kontrak 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=4c9aa318517df6a9de03b48ddbb529ab99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Kawin Kontrak Lagi 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=162d0fc33b2855cde59d713a67d8a9ac99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Kawin Kontrak 3 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=730083ac6d47c4b97184062aa400270299c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Warkop DKI - Itu Bisa Diatur 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Warkop DKI - Bebas Aturan Main 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Tarix Jabrix 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=997bba22a9d6f40d5ed029e4fc0c25c399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Tarix Jabrix 2
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=549d3eb37fb422bb48f377c41b1a4c1c99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Tarix Jabrix 3 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] Get Married 5 – 99% Muhrim
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Tarix Jabrix 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="", TV Edukasi
+https://tv.cpdev.us/Playlist/o/tvedukasi.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", TV Edukasi (Backup)
+https://tv.cpdev.us/Playlist/r/40002.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", Toonmax
+https://tv.cpdev.us/Playlist/o/toonmax.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", Spacetoon
+https://tv.cpdev.us/Playlist/o/spacetoon.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", EBS Kids
+https://tv.cpdev.us/Playlist/o/ebskids.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", Mentari TV
+https://tv.cpdev.us/Playlist/o/mentaritv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+
+#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia
+https://tv.cpdev.us/Playlist/o/sinemaindonesia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia X
+https://tv.cpdev.us/Playlist/o/sinemaindonesia-x.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", B4U Movies
+https://tv.cpdev.us/Playlist/o/b4umovieindia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Xing Kong China
+https://tv.cpdev.us/Playlist/o/xingkong.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Lotus Macau
+https://tv.cpdev.us/Playlist/o/lotusmacau.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", ATV
+https://tv.cpdev.us/Playlist/o/atv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", MCINE
+https://tv.cpdev.us/Playlist/o/mcine.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Citra Bioskop
+https://tv.cpdev.us/Playlist/r/20015.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Citra Drama
+https://tv.cpdev.us/Playlist/r/20016.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
