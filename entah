@@ -1,12 +1,12 @@
-#EXTINF: -1 tvg-logo=" " group-title="Music", MTV UK
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="Music", MTV UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/05b0f446492a0ab.m3u8
-#EXTINF: -1 tvg-logo=" " group-title="Music", MTV CLASSICS UK
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/MTV_Classic_2011_logo.png" group-title="Music", MTV CLASSICS UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/42bd8e0f644431d.m3u8
-#EXTINF: -1 tvg-logo=" " group-title="Music", MTV Base UK
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mtv_base_uk.png/630px-Mtv_base_uk.png" group-title="Music", MTV Base UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/be8c2c558ebc74e.m3u8
-#EXTINF: -1 tvg-logo=" " group-title="Music", MTV Dance UK
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MTV_Dance_2013_logo.svg/512px-MTV_Dance_2013_logo.svg.png" group-title="Music", MTV Dance UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/185821d45e1de47.m3u8
-#EXTINF: -1 tvg-logo=" " group-title="Music", MTV Hits UK
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/175px-MTV_Hits_2017_logo.svg.png" group-title="Music", MTV Hits UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/338e44dddae39e7.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
@@ -18,7 +18,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Knowledge", DISCOVERY SCI CANADA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/df36e66d66f4156.m3u8
-#EXTINF: -1 tvg-logo="https://cdn.imgbin.com/11/19/19/imgbin-animal-planet-logo-television-channel-others-E91MwTn9rBZVEgc6NzXur9epn.jpg" group-title="Knowledge",Animal Planet (Eng)
+#EXTINF: -1 tvg-logo="https://cdn.imgbin.com/11/19/19/imgbin-animal-planet-logo-television-channel-others-E91MwTn9rBZVEgc6NzXur9epn.jpg" group-title="Knowledge",Animal Planet
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/195
 
 #EXTINF: -1 tvg-logo=" " group-title="Kids", DISNEY UK
