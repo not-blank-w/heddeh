@@ -409,98 +409,98 @@ https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" tvg-url="" group-title="Sports",Футбол 2
 https://95-213-224-183.livesports24.online/fooootball2.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI NASIONAL
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI Sport
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI BUDAYA
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI BUDAYA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI DKI JAKARTA
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI ACEH
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI ACEH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SUMATERA UTARA
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SUMATERA UTARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SUMATERA BARAT
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SUMATERA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SUMATERA SELATAN
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SUMATERA SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI RIAU
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI RIAU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI JAMBI
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI JAMBI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI BANGKA BELITUNG
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI BANGKA BELITUNG
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI BENGKULU
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI BENGKULU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI LAMPUNG
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI LAMPUNG
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI JAWA BARAT
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI JAWA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI JAWA TENGAH
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI JAWA TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI JAWA TIMUR
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI JAWA TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI YOGYAKARTA
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI YOGYAKARTA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI BALI
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI BALI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI NUSA TENGGARA BARAT
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI NUSA TENGGARA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI NUSA TENGGARA TIMUR
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI NUSA TENGGARA TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI KALIMANTAN BARAT
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI KALIMANTAN BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI KALIMANTAN TENGAH
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI KALIMANTAN TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI KALIMANTAN TIMUR
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI KALIMANTAN TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI KALIMANTAN SELATAN
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI KALIMANTAN SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SULAWESI SELATAN
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SULAWESI SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SULAWESI BARAT
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SULAWESI BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SULAWESI TENGGARA
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SULAWESI TENGGARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SULAWESI TENGAH
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SULAWESI TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI SULAWESI UTARA
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI SULAWESI UTARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI GORONTALO
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI GORONTALO
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI MALUKU
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI MALUKU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="Lokal",TVRI PAPUA
+#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
