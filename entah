@@ -18,11 +18,6 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2008f2290a3e70b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://jiekou.wakds.xyz/logo/r_2667.png" group-title="Knowledge",Animal Planet 
 http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/195
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.9fc864f1e4dad47983da0f9b667d1ab0.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="Knowledge",Love Nature
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.b0be697df34091a11e727478036062d3.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="Knowledge",Smithsonian
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
-
 
 #EXTINF: -1 tvg-logo="https://www.freepngimg.com/thumb/logo/72770-bin-symbol-recycling-computer-recycle-logo.png" group-title="Kids", DISNEY UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a997a7280b772a0.m3u8
