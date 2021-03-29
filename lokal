@@ -87,35 +87,12 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2xClnKTi4YEdc9K1dYqp0JnaI68=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6549/da-vinci-ef222f.jpg" tvg-id="RIYAN.6ef20acf0d0dff1a66eef9ca2db457e4.SHINTA" tvg-name"[CODAY] Da Vinci _VIDIO" group-title="Kids", Da Vinci 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Kids" tvg-logo="", TV Edukasi
-https://tv.cpdev.us/Playlist/o/tvedukasi.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", Toonmax
-https://tv.cpdev.us/Playlist/o/toonmax.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", Spacetoon
-https://tv.cpdev.us/Playlist/o/spacetoon.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", EBS Kids
-https://tv.cpdev.us/Playlist/o/ebskids.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", Mentari TV
-https://tv.cpdev.us/Playlist/o/mentaritv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" tvg-url="" group-title="Knowledge", Nat Geographic
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-name="National Geographic Wild Asia" tvg-country="MY" tvg-language="" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" tvg-url="" group-title="Knowledge",Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia
-https://tv.cpdev.us/Playlist/o/sinemaindonesia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia X
-https://tv.cpdev.us/Playlist/o/sinemaindonesia-x.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", B4U Movies
-https://tv.cpdev.us/Playlist/o/b4umovieindia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Xing Kong China
-https://tv.cpdev.us/Playlist/o/xingkong.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Lotus Macau
-https://tv.cpdev.us/Playlist/o/lotusmacau.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", ATV
-https://tv.cpdev.us/Playlist/o/atv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", MCINE
-https://tv.cpdev.us/Playlist/o/mcine.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Citra Bioskop
-https://tv.cpdev.us/Playlist/r/20015.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Citra Drama
-https://tv.cpdev.us/Playlist/r/20016.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls1.png" group-title="Lokal",Live Streaming 1
 http://rr3.dens.tv/s/s100/live.m3u8
