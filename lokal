@@ -56,7 +56,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=e
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Lifestyle", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lifestyle",HD Fashion & LifeStyle
+#EXTINF:-1 tvg-logo="http://hdfashion.tv/catalog/view/theme/hdfashion/image/logo.svg" group-title="Lifestyle",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -91,52 +91,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-name="National Geographic Wild Asia" tvg-country="MY" tvg-language="" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" tvg-url="" group-title="Knowledge",Nat Geo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ngc.png", Nat Geo Channel -UseeTv
-https://tv.cpdev.us/Playlist/a/12001.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/natgeopeople.png", Nat Geo People -UseeTv
-https://tv.cpdev.us/Playlist/a/12002.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/natgeowild.png", Nat Geo Wild -UseeTv
-https://tv.cpdev.us/Playlist/a/12003.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png", CGTN Documentary -UseeTv
-https://tv.cpdev.us/Playlist/a/12004.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/discoverychannel.png", Discovery Channel -UseeTv
-https://tv.cpdev.us/Playlist/a/12005.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/history.png", History -UseeTv
-https://tv.cpdev.us/Playlist/a/12006.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/crimeinvestigation.png", Crime Investigation -UseeTv
-https://tv.cpdev.us/Playlist/a/12007.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png", TV Edukasi -UseeTv
-https://tv.cpdev.us/Playlist/a/40001.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/babyfirst.png", Baby First -UseeTv
-https://tv.cpdev.us/Playlist/a/40002.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ducktv.png", Duck tv -UseeTv
-https://tv.cpdev.us/Playlist/a/40003.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/horee.png", Horee -UseeTv
-https://tv.cpdev.us/Playlist/a/40008.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/boomerang.png", Boomerang -UseeTv
-https://tv.cpdev.us/Playlist/a/40009.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cartoonnetwork.png", Cartoon Network -UseeTv
-https://tv.cpdev.us/Playlist/a/40010.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mkidz.png", My Kids -UseeTv
-https://tv.cpdev.us/Playlist/a/40011.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/duniaanak.png", Dunia Anak -UseeTv
-https://tv.cpdev.us/Playlist/a/40012.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nickjr.png", Nick JR -UseeTv
-https://tv.cpdev.us/Playlist/a/40013.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7 
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nickelodeon.png", Nickelodeon -UseeTv
-https://tv.cpdev.us/Playlist/a/40014.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/davincilearning.png", Davinci -UseeTv
-https://tv.cpdev.us/Playlist/a/40015.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dreamworks.png", Dream Works -UseeTv
-https://tv.cpdev.us/Playlist/a/40016.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/animax.png", Animax -UseeTv
-https://tv.cpdev.us/Playlist/a/40017.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Kids" tvg-logo="http://202.74.236.189/~uzbwkzam/img/aniplus.png", Ani Plus -UseeTv
-https://tv.cpdev.us/Playlist/a/40018.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/outdoor.png", Outdoor Channel
-https://tv.cpdev.us/Playlist/a/60011.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://202.74.236.189/~uzbwkzam/img/afn.png", Asian Food Network
-https://tv.cpdev.us/Playlist/a/60012.m3u8?t=8fa14cdd754f91cc6554c9e71929cce7
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls1.png" group-title="Lokal",Live Streaming 1
 http://rr3.dens.tv/s/s100/live.m3u8
