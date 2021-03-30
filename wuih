@@ -590,10 +590,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO", Radio Cakra 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.6ff7edcfce73b780542de6a1aefb1d94.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="Knowledge", Smithsonian
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.0bb86fe13fbee851c191bc127b1920c6.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="Knowledge", Love Nature 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gKZzJQlnbkDh4yK7k7QGNuOPuAE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/ec097d.png" tvg-id="RIYAN.fc4d3f421e1866c2ab5748f09e5bc1c1.SHINTA" tvg-name"[CODAY] Hip Hip Horee! _VIDIO" group-title="Kids",Hip Hip Horee!
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.6c057deb7d34617748eea669079b586a.SHINTA" tvg-name"[CODAY] Zoomoo _VIDIO" group-title="Kids", Zoomoo 
@@ -680,25 +676,6 @@ https://tv.cpdev.us/Playlist/o/spacetoon.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
 https://tv.cpdev.us/Playlist/o/ebskids.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
 #EXTINF:-1 group-title="Kids" tvg-logo="", Mentari TV
 https://tv.cpdev.us/Playlist/o/mentaritv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-
-#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia
-https://tv.cpdev.us/Playlist/o/sinemaindonesia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia X
-https://tv.cpdev.us/Playlist/o/sinemaindonesia-x.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", B4U Movies
-https://tv.cpdev.us/Playlist/o/b4umovieindia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Xing Kong China
-https://tv.cpdev.us/Playlist/o/xingkong.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Lotus Macau
-https://tv.cpdev.us/Playlist/o/lotusmacau.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", ATV
-https://tv.cpdev.us/Playlist/o/atv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", MCINE
-https://tv.cpdev.us/Playlist/o/mcine.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Citra Bioskop
-https://tv.cpdev.us/Playlist/r/20015.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Movies" tvg-logo="", Citra Drama
-https://tv.cpdev.us/Playlist/r/20016.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
 
 #EXTINF: -1 tvg-logo="https://www.freepngimg.com/thumb/logo/72770-bin-symbol-recycling-computer-recycle-logo.png" group-title="Sports", PTV SPORTS  LOW
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
