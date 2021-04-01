@@ -57,7 +57,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=e
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Lifestyle", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lifestyle",HD Fashion & LifeStyle
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMUK4WJLzZo6qDY77sJpoS2vjeMNidJgKgqdgocLpohCM1TKPkI5SXVNZKbSHlaManrs&usqp=CAU" group-title="Lifestyle",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -663,19 +663,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD",[CODAY] The Tarix Jabrix 3
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="", TV Edukasi
-https://tv.cpdev.us/Playlist/o/tvedukasi.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", TV Edukasi (Backup)
-https://tv.cpdev.us/Playlist/r/40002.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", Toonmax
-https://tv.cpdev.us/Playlist/o/toonmax.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", Spacetoon
-https://tv.cpdev.us/Playlist/o/spacetoon.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", EBS Kids
-https://tv.cpdev.us/Playlist/o/ebskids.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 group-title="Kids" tvg-logo="", Mentari TV
-https://tv.cpdev.us/Playlist/o/mentaritv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
 
 #EXTINF: -1 tvg-logo="https://www.freepngimg.com/thumb/logo/72770-bin-symbol-recycling-computer-recycle-logo.png" group-title="Sports", PTV SPORTS  LOW
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
