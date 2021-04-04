@@ -1651,9 +1651,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/55b1da7f755ebf
 #EXTINF: -1 tvg-logo="https://www.freepngimg.com/thumb/logo/72770-bin-symbol-recycling-computer-recycle-logo.png" group-title="CANADA", E! ENT CANDA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/a93284034d3fb28.m3u8
 
-#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.freepngimg.com/thumb/logo/72770-bin-symbol-recycling-computer-recycle-logo.png" tvg-url="" group-title="CANADA",Extasy TV HD
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-
 #EXTINF: -1 tvg-logo="https://www.freepngimg.com/thumb/logo/72770-bin-symbol-recycling-computer-recycle-logo.png" group-title="CANADA", GLOBAL TORONTO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/663b9cf909f316d.m3u8
 
