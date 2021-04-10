@@ -57,10 +57,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal", ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
 
-#EXTINF:-1 group-title="VIDIO",DAAI TV 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1  group-title="VIDIO",Vidio Entertainment 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6c102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 group-title="VIDIO",TVN 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 group-title="VIDIO",Zee Bioskop 
@@ -88,6 +84,28 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Knowledge", History 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People 
+https://tv.cpdev.us/Playlist/usee1/220.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild 
+https://tv.cpdev.us/Playlist/usee1/221.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="Knowledge", Discovery Channel 
+https://tv.cpdev.us/Playlist/usee1/234.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/crimeinvestigation.png" group-title="Knowledge", Crime Investigation 
+https://tv.cpdev.us/Playlist/usee1/307.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 group-title="Knowledge",Eat & Go
+https://tv.cpdev.us/Playlist/usee1/89.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 group-title="Knowledge",Asian Food Network
+https://tv.cpdev.us/Playlist/usee1/235.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 group-title="Knowledge",CGTN Documentary
+https://tv.cpdev.us/Playlist/usee1/56.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 group-title="Knowledge",Lingua
+https://tv.cpdev.us/Playlist/usee1/321.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 group-title="Knowledge",Love 4K Nature
+https://tv.cpdev.us/Playlist/a/20011.m3u8?t=2510c39011c5be704182423e3a695e91
 
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
