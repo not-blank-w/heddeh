@@ -232,15 +232,15 @@ http://210.210.155.35:80/session/db3a3876-2ede-11eb-a8d2-c81f66f89318/uq2663/h/h
 http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="International",AL JAZEERA Arabic 
 http://210.210.155.35:80/session/15ebf4f0-2edf-11eb-9063-b82a72d63267/qwr9ew/s/s16/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cctv4.png"group-title="International ", CCTV4 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cctv4.png"group-title="International", CCTV4 
 http://210.210.155.35:80/session/2f9c2f96-2edf-11eb-9071-b82a72d63267/qwr9ew/s/s19/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png"group-title="International ", FRANCE 24 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png"group-title="International", FRANCE 24 
 http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tv5monde.png" group-title="International",TV5MONDE 
 http://210.210.155.35:80/session/c6731b1a-2ef2-11eb-94e7-b82a72d63267/qwr9ew/s/s24/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="International ",DW TV ASIA 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="International",DW TV ASIA 
 http://210.210.155.35:80/session/eb5612b6-2ef2-11eb-9468-c81f66f89318/qwr9ew/s/s26/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tbn.png" group-title="International ",TBN 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tbn.png" group-title="International",TBN 
 http://210.210.155.35:80/session/fed35ccc-2ef2-11eb-a7a0-c81f66f89318/qwr9ew/s/s39/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtndoc.png" group-title="International",CGTN DOCUMENTARY 
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8 
@@ -251,95 +251,95 @@ http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/madinah.png" group-title="International",AL Sunnah Nabawi TV 
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Premiuml", Nat Geographic HD
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Premium", Nat Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premiuml",Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",Nat Geo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Premiuml", BBC Earth
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Premium", BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BBC_Food_logo.svg/200px-BBC_Food_logo.svg.png" group-title="Premiuml",BBC Food
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BBC_Food_logo.svg/200px-BBC_Food_logo.svg.png" group-title="Premium",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC.svg/120px-BBC.svg.png" tvg-url="" group-title="Premiuml",BBC Home
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC.svg/120px-BBC.svg.png" tvg-url="" group-title="Premium",BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/200px-BBC_Lifestyle2.svg.png" tvg-url="" group-title="Premiuml",BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/200px-BBC_Lifestyle2.svg.png" tvg-url="" group-title="Premium",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" tvg-url="" group-title="Premiuml",Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" tvg-url="" group-title="Premium",Animal Planet
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premiuml",Pluto TV Animals
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premium",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.6ff7edcfce73b780542de6a1aefb1d94.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="Premiuml", Smithsonian
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.6ff7edcfce73b780542de6a1aefb1d94.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="Premium", Smithsonian
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.0bb86fe13fbee851c191bc127b1920c6.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="Premiuml", Love Nature 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.0bb86fe13fbee851c191bc127b1920c6.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="Premium", Love Nature 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Premiuml",Bisnet Adventure 4K
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Premium",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Premiuml", History 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Premium", History 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Premiuml", Bisnet Lifestyle
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Premium", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMUK4WJLzZo6qDY77sJpoS2vjeMNidJgKgqdgocLpohCM1TKPkI5SXVNZKbSHlaManrs&usqp=CAU" group-title="Premiuml",HD Fashion & LifeStyle
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMUK4WJLzZo6qDY77sJpoS2vjeMNidJgKgqdgocLpohCM1TKPkI5SXVNZKbSHlaManrs&usqp=CAU" group-title="Premium",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premiuml", eGG TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premium", eGG TV 
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premiuml", Fight Sports 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium", Fight Sports 
 http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Premiuml", Animax 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Premium", Animax 
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Premiuml", Aniplus 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Premium", Aniplus 
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Premiuml", MKIDZ 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Premium", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Premiuml", AXN 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Premium", AXN 
 http://rr.dens.tv/h/h141/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premiuml", Kix 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium", Kix 
 http://rr.dens.tv/h/h07/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hits.png" group-title="Premiuml", HITS 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hits.png" group-title="Premium", HITS 
 http://rr.dens.tv/h/h37/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Premiuml", Blue Ant 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Premium", Blue Ant 
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Premiuml", Blue Ant Extreme 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Premium", Blue Ant Extreme 
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Premiuml", K+ 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Premium", K+ 
 http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premiuml", Sony GEM TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premium", Sony GEM TV 
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Premiuml", Sony One 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Premium", Sony One 
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cmw.png" group-title="Premiuml", Cenima World 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cmw.png" group-title="Premium", Cenima World 
 http://rr.dens.tv/h/h04/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="Premiuml", Celestial Movies 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="Premium", Celestial Movies 
 http://rr2.dens.tv/s/s33/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premiuml", ZEE Bioskop 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premium", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Premiuml", Thrill 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Premium", Thrill 
 http://rr2.dens.tv/s/s34/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premiuml", MyCinema 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium", MyCinema 
 http://rr.dens.tv/h/h90/S4/mnf.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/style.png" group-title="Premiuml", TV5MONDE Style 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/style.png" group-title="Premium", TV5MONDE Style 
 http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premiuml", Bloomberg 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium", Bloomberg 
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premiuml",SKYNEWS 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premium",SKYNEWS 
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="Premiuml",FRANCE 24 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="Premium",FRANCE 24 
 http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8 
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premiuml",DW English 
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium",DW English 
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8 
-#EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="Premiuml",RUSSIA TODAY 
+#EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="Premium",RUSSIA TODAY 
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
-#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premiuml" , NHK World 
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premium" , NHK World 
 https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_4M.m3u8 
-#EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premiuml" , NHK World EN 
+#EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premium" , NHK World EN 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="Premiuml", Al Jazeera English 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="Premium", Al Jazeera English 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
-#EXTINF:-1 tvg-id="ksa.aljazeeraenglish" tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="Premiuml", Al Jazeera English 2 
+#EXTINF:-1 tvg-id="ksa.aljazeeraenglish" tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="Premium", Al Jazeera English 2 
 http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premiuml", CGTN 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premium", CGTN 
 https://live.cgtn.com/1000/prog_index.m3u8 
-#EXTINF:-1 tvg-id="ksa.cgtn" tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premiuml", CGTN 2 
+#EXTINF:-1 tvg-id="ksa.cgtn" tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premium", CGTN 2 
 http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="Premiuml",TRT World 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="Premium",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
