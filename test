@@ -292,3 +292,28 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/salamtv.png", Salam TV 
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="News",SKYNEWS 
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="News",FRANCE 24 
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8 
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="News",DW English 
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8 
+#EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="News",RUSSIA TODAY 
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="News" , NHK World 
+https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_4M.m3u8 
+#EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="News" , NHK World EN 
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News", Al Jazeera English 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+#EXTINF:-1 tvg-id="ksa.aljazeeraenglish" tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News", Al Jazeera English 2 
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="News", CGTN 
+https://live.cgtn.com/1000/prog_index.m3u8 
+#EXTINF:-1 tvg-id="ksa.cgtn" tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="News", CGTN 2 
+http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="News", Bloomberg 
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News",TRT World 
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
