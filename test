@@ -267,3 +267,28 @@ http://rr.dens.tv/h/h90/S4/mnf.m3u8
 http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium Channel", Bloomberg 
 http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8 
+
+#EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8 
+#EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 2 
+http://185.105.4.106:1935/live/Bahrain%20Quran/index.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi",RODJA TV 
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/ahsantv.png", AHSAN TV 
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/surautv.png", Surau TV 
+http://119.235.249.58:1935/surautv/live/playlist.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/alimantv.png", AL-ImanTV 
+https://tv.rodja.live/aliman/HD/playlist.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mgitv.png", MGI TV 
+https://tv.rodja.live/tasik/mgitv/index.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/muadztv.png", muadzTV 
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV 
+https://streaming.sigraduta.co.id/izzahtv.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV 2 
+https://streaming.radiosalamjambi.com/izzahtv.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv 
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/salamtv.png", Salam TV 
+http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8 
