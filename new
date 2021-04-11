@@ -273,7 +273,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xFh5okcYxIdkYz1VJbpKYYSv4c4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6838/eab36f.png" tvg-id="RIYAN.538c96cac354da98caa790e3be5ec65d.SHINTA" tvg-name"[CODAY] TV Edukasi _VIDIO" group-title="Premium", TV Edukasi
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
-
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Premium",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Premium", History 
@@ -344,6 +343,21 @@ https://live.cgtn.com/1000/prog_index.m3u8
 http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="Premium",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hOWEWsZMY9T1FtJNbPQ8Aj4v4zw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" tvg-id="RIYAN.2c96c1e152311145a1fe294e8f1ef681.SHINTA" tvg-name"[CODAY] TVN _VIDIO" group-title="Premium", TVN 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tl1iLdONiKx5D699sENQtAM-dx0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png" tvg-id="RIYAN.7a6350f57c7e3449dc92ad28cc3d41ec.SHINTA" tvg-name"[CODAY] Zee Bioskop _VIDIO" group-title="Premium", Zee Bioskop 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" tvg-id="RIYAN.f79faa1dc63375b07978f9bd99b5c695.SHINTA" tvg-name"[CODAY] Citra Bioskop _VIDIO" group-title="Premium", Citra Bioskop 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" tvg-id="RIYAN.1574a9248794676fe4c5f609d2910fe3.SHINTA" tvg-name"[CODAY] Citra Drama _VIDIO" group-title="Premium", Citra Drama 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ec102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ziv42k_p6xUIMBqi76K-fn9o7UA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" tvg-id="RIYAN.837221c37f5c23b84bbf5e48ee87a8e3.SHINTA" tvg-name"[CODAY] Citra Dangdut _VIDIO" group-title="Premium", Citra Dangdut
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" tvg-id="RIYAN.42452f0c6178621ebc40fe5c5df28e3e.SHINTA" tvg-name"[CODAY] ZING _VIDIO" group-title="Premium", ZING
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kGD42ZLQ-OfFt7rrrmLErptMN6c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" tvg-id="RIYAN.a690157cef51352b68f0f5ea7718a93f.SHINTA" tvg-name"[CODAY] Citra Entertainment _VIDIO" group-title="Premium", Citra Entertainment
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
+
 
 #EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8 
