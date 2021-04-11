@@ -294,27 +294,29 @@ http://rr.dens.tv/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/style.png" group-title="Premium Channel", TV5MONDE Style 
 http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium Channel", Bloomberg 
-http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8 
-#EXTINF:-1 group-title="Premium Channel",TVN 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",Zee Bioskop 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",Citra Bioskop 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",Citra Drama 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ec102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",Citra Dangdut 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",ZING 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",Citra Entertainment 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",Aljazeera 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",Euro News 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=cdf66a6a7a04d87d865335701790c3e3102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="Premium Channel",ABC Australia 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c20bb2d9a50d5ac1f713f8b34d9aac5a102a6ed6587b5b8cb4ebbe972864690b
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premium Channel",SKYNEWS 
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="Premium Channel",FRANCE 24 
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8 
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium Channel",DW English 
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8 
+#EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="Premium Channel",RUSSIA TODAY 
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premium Channel" , NHK World 
+https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_4M.m3u8 
+#EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premium Channel" , NHK World EN 
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="Premium Channel", Al Jazeera English 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+#EXTINF:-1 tvg-id="ksa.aljazeeraenglish" tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="Premium Channel", Al Jazeera English 2 
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premium Channel", CGTN 
+https://live.cgtn.com/1000/prog_index.m3u8 
+#EXTINF:-1 tvg-id="ksa.cgtn" tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premium Channel", CGTN 2 
+http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="Premium Channel",TRT World 
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8 
@@ -341,31 +343,6 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/salamtv.png", Salam TV 
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="News",SKYNEWS 
-http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="News",FRANCE 24 
-http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8 
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="News",DW English 
-http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8 
-#EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="News",RUSSIA TODAY 
-http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
-#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="News" , NHK World 
-https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_4M.m3u8 
-#EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="News" , NHK World EN 
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News", Al Jazeera English 
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
-#EXTINF:-1 tvg-id="ksa.aljazeeraenglish" tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News", Al Jazeera English 2 
-http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="News", CGTN 
-https://live.cgtn.com/1000/prog_index.m3u8 
-#EXTINF:-1 tvg-id="ksa.cgtn" tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="News", CGTN 2 
-http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="News", Bloomberg 
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News",TRT World 
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature 
@@ -374,8 +351,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
-#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8 
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
