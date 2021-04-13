@@ -239,39 +239,39 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/tv2.png", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV1綜合 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="China",CCTV1綜合 
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV2財經 
+#EXTINF:-1 tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/4/11/1554952407174_190.png" group-title="China",CCTV2財經 
 http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV3綜藝 
+#EXTINF:-1 tvg-logo="https://upload.shejihz.com/2020/05/bc123c9f8c9df2f2de00d20a406abe9e.jpg" group-title="China",CCTV3綜藝 
 http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV4亞洲 
+#EXTINF:-1 tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/4/11/1554954897035_400.png" group-title="China",CCTV4亞洲 
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV5體育 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="China",CCTV5體育 
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV5+體育賽事 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/200px-CCTV-5%2B_Logo.png" group-title="China",CCTV5+體育賽事 
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV6電影 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/180px-CCTV-6_Logo.png" group-title="China",CCTV6電影 
 http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV7國防軍事 
+#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712175064480.jpg" group-title="China",CCTV7國防軍事 
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV8電視劇 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="China",CCTV8電視劇 
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV9紀錄 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="China",CCTV9紀錄 
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV10科教 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/CCTV-10_Logo.png/200px-CCTV-10_Logo.png" group-title="China",CCTV10科教 
 http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV11戲曲 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="China",CCTV11戲曲 
 http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV12社會與法 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="China",CCTV12社會與法 
 http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV13新聞 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="China",CCTV13新聞 
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV14少兒 
+#EXTINF:-1 tvg-logo="https://upload.shejihz.com/2020/05/446ac7ff519af1b156811a6f4a96c67c.jpg" group-title="China",CCTV14少兒 
 http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV15音樂 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/200px-CCTV-15_Logo.png" group-title="China",CCTV15音樂 
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="China",CCTV17農業農村 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/CCTV-17_Logo.png" group-title="China",CCTV17農業農村 
 http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="Premium",AL JAZEERA Arabic 
