@@ -253,7 +253,7 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/180px-CCTV-6_Logo.png" group-title="China",CCTV6電影 
 http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712175064480.jpg" group-title="China",CCTV7國防軍事 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/71-717703_cctv-1-hd-png-download.png" group-title="China",CCTV7國防軍事 
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="China",CCTV8電視劇 
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8 
