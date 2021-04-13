@@ -312,8 +312,6 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium", Bloomberg 
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cctv4.png"group-title="Premium", CCTV4 
-http://210.210.155.35:80/session/2f9c2f96-2edf-11eb-9071-b82a72d63267/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="Premium", Celestial Movies 
 http://rr2.dens.tv/s/s33/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premium", CGTN 
@@ -580,14 +578,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" tvg-url="" group-title="Sports",Best Cable Sports
 https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sports",CCTV中国中央电视台-5 体育
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sports",CCTV中国中央电视台-5 体育
-http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" tvg-url="" group-title="Sports",Claro Sports (1080p)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" tvg-url="" group-title="Sports",Cycle World
