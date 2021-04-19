@@ -536,6 +536,10 @@ http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C43241&q=SD&apike
 https://mediasv.online/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="Sports",Bein Sports 2 
 https://mediasv.online/live/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="Sports", BT Sports 2 
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.659a99e84e1e5be6fc552b6f9a5c263f.SHINTA" tvg-name"[CODAY] Champions TV 1 _VIDIO" group-title="Sports", Champions TV 1 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" tvg-id="RIYAN.d334730e3801b6dca3edf9a6a55afc13.SHINTA" tvg-name"[CODAY] Champions TV 2 _VIDIO" group-title="Sports", Champions TV 2 
