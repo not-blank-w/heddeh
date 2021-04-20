@@ -556,6 +556,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 (2)
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sports",Red Bull TV (1080p)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sports",Abu Dhabi Sports 2 (1080p)
@@ -693,20 +695,6 @@ https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Sports",Real Madrid (404p)
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sports",Red Bull TV (1080p)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sports",Red Bull TV (1080p)
-https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sports",Red Bull TV (1080p)
-https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sports",Red Bull TV (1080p)
-https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sports",Red Bull TV (540p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sports",Red Bull TV (720p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Sports",Rede Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/dIzAmT0.png" tvg-url="" group-title="Sports",Rugby Men's Sevens (288p)
