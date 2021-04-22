@@ -468,6 +468,8 @@ http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/
 
 #EXTINF:-1 tvg-ID="ABK.AU" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/101002210222/
+#EXTINF:-1 tvg-logo="http://scmuseum.org/wp-content/uploads/2017/02/AstroKids-Social.jpg" group-title="Kids",Astro Kids
+http://51.79.208.146:61980/myplay/c_58046/index.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
