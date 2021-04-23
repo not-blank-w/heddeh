@@ -362,8 +362,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium", Kix 
 http://rr.dens.tv/h/h07/01.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.98b5162b337a228eb5a1ad4de23a1d55.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="Premium", Love Nature
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Premium", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium", MyCinema 
@@ -382,8 +380,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premium",SKYNEWS 
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.871241b9df1179fce0914fef0bfa5d39.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="Premium", Smithsonian 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premium", Sony GEM TV 
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Premium", Sony One 
@@ -398,16 +394,8 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://210.210.155.35:80/session/c6731b1a-2ef2-11eb-94e7-b82a72d63267/qwr9ew/s/s24/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/style.png" group-title="Premium", TV5MONDE Style 
 http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/01.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xFh5okcYxIdkYz1VJbpKYYSv4c4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6838/eab36f.png" tvg-id="RIYAN.538c96cac354da98caa790e3be5ec65d.SHINTA" tvg-name"[CODAY] TV Edukasi _VIDIO" group-title="Premium", TV Edukasi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hOWEWsZMY9T1FtJNbPQ8Aj4v4zw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" tvg-id="RIYAN.2c96c1e152311145a1fe294e8f1ef681.SHINTA" tvg-name"[CODAY] TVN _VIDIO" group-title="Premium", TVN 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uatv.png" group-title="Premium",UA 
 http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tl1iLdONiKx5D699sENQtAM-dx0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png" tvg-id="RIYAN.7a6350f57c7e3449dc92ad28cc3d41ec.SHINTA" tvg-name"[CODAY] Zee Bioskop _VIDIO" group-title="Premium", Zee Bioskop 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" tvg-id="RIYAN.42452f0c6178621ebc40fe5c5df28e3e.SHINTA" tvg-name"[CODAY] ZING _VIDIO" group-title="Premium", ZING
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/ahsantv.png", AHSAN TV 
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
