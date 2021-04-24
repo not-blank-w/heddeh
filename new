@@ -806,7 +806,7 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8?checkedby:iptvc
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="KR" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090022.png" group-title="Korea",CBS
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Kids",EBS Kids
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Korea",EBS Kids
 rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/UvRoc22.png" group-title="Korea",Edaily TV
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8?checkedby:iptvcat.net
