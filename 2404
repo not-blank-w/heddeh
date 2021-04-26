@@ -1105,10 +1105,11 @@ https://cdn11jtedge.useetv.com/joss/130/tv9/chunklist_w1910508881_b1004100_sleng
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv 
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://bazarhd.online:80/0144569590/4724216271/83391?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://bazarhd.online:80/0144569590/4724216271/83390?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports1.png" group-title="Sports", beIN Sport 1 
+http://bazarhd.online:80/307210113151/307210113151/80392?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports2.png" group-title="Sports", beIN Sport 2 
+http://bazarhd.online:80/307210113151/307210113151/80391?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="Sports", BT Sports 2 
