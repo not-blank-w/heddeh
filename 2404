@@ -1105,45 +1105,6 @@ https://cdn11jtedge.useetv.com/joss/130/tv9/chunklist_w1910508881_b1004100_sleng
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv 
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
-#EXTINF: -1 group-title="SPORTS 3", UseeSports 1
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394826
-#EXTINF: -1 group-title="SPORTS 3", UseeSports 2
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394827
-#EXTINF: -1 group-title="SPORTS 3", Champion TV 1
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394828
-#EXTINF: -1 group-title="SPORTS 3", Champion TV 2
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394829
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 1
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394830
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 2
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394831
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 1 asia
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394835
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 2 asia
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394836
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 1 ENG
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394837
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 2 ENG
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394838
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 1 ENG
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394839
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 2 ENG
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394840
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport XTRA
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394841
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 1 PREMIUM
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394842
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 2 PREMIUM
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394843
-#EXTINF: -1 group-title="SPORTS 3", Bein Sport 3 PREMIUM
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394844
-#EXTINF: -1 group-title="SPORTS 3", Champion TV 1
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394845
-#EXTINF: -1 group-title="SPORTS 3", Champion TV 2
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394846
-#EXTINF: -1 group-title="SPORTS 3", Champion TV 3
-https://m3u-editor.com/serve/0e13f4a0-a522-11eb-a9b3-6398c973344b/278394847
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="Sports", BT Sports 2 
