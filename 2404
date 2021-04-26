@@ -1111,16 +1111,6 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33648
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33649
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN SPORTS 3 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33650
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Sports",beIN SPORTS 4 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/9013
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Sports",beIN SPORTS 5 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/32748
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Sports",beIN SPORTS 6 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/32749
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Sports",beIN SPORTS 7 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/32750
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports8.jpg" group-title="Sports",beIN SPORTS 8 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/32751
 #EXTINF:-1  tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
