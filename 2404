@@ -1105,6 +1105,10 @@ https://cdn11jtedge.useetv.com/joss/130/tv9/chunklist_w1910508881_b1004100_sleng
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv 
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
+http://forsat.men:8888/merpatistream/merpati99/729
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
+http://forsat.men:8888/merpatistream/merpati99/728
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png"  group-title="Sports",beIN SPORTS 1 
 http://rv.imax.re:80/693752351522161/693752351522161/80394
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png"  group-title="Sports",beIN SPORTS 2 
