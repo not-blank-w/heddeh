@@ -1091,18 +1091,17 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 https://tv.rodja.live/tasik/mgitv/index.m3u8 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/muadztv.png", muadzTV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8 
-#EXTINF: -1 tvg-id="ext" group-title="Religi", MQTV
-https://m3u-editor.com/serve/20cd6f30-a5bf-11eb-8ef5-2d2dbb90f716/279674051
-#EXTINF: -1 tvg-id="ext" group-title="Religi", Muhammadiyah TV
-https://m3u-editor.com/serve/20cd6f30-a5bf-11eb-8ef5-2d2dbb90f716/279674053
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi",RODJA TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvmu.png" group-title="Religi", Muhammadiyah TV 
+https://cdn11jtedge.useetv.com/joss/130/muhammadiyahtv/chunklist_w792252621_b1004100_sleng.m3u8?enc=NeLuN2zVDw6Sn05UWc264A&uid=&exp=1619452835
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mqtv.png" group-title="Religi", MQTV 
+https://cdn11jtedge.useetv.com/joss/130/mqtv/chunklist_w1670954775_b894100_sleng.m3u8?enc=N2533Z1JYzwa1SlaiZ72zg&uid=&exp=1619452834#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi",RODJA TV 
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/salamtv.png", Salam TV 
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/surautv.png", Surau TV 
 http://119.235.249.58:1935/surautv/live/playlist.m3u8 
-#EXTINF: -1 tvg-id="ext" group-title="Religi", TV9 NU
-https://m3u-editor.com/serve/20cd6f30-a5bf-11eb-8ef5-2d2dbb90f716/279674052
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tv9nu.png" group-title="Religi", TV9 NU 
+https://cdn11jtedge.useetv.com/joss/130/tv9/chunklist_w1910508881_b1004100_sleng.m3u8?enc=QrQ-XgKS-HqDvM9bH7zqOw&uid=&exp=1619452833
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv 
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
