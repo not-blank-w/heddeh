@@ -1105,10 +1105,16 @@ https://cdn11jtedge.useetv.com/joss/130/tv9/chunklist_w1910508881_b1004100_sleng
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv 
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
-#EXTINF:-1 group-title="Sports",USA beIN Sports LHD
-http://ky-tv.cc:25461/tram/tram/220395
-#EXTINF:-1group-title="Sports",US: BeIN Sports 2
-http://ky-tv.cc:25461/tram/tram/220396
+#EXTINF:-1  tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",beIN Sports 1 Asia
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#EXTINF:-1  tvg-logo="" tvg-url="" group-title="",BEIN SPORTS 1 UHD
+http://bazarhd.online:80/307210113151/307210113151/80392
+#EXTINF:-1  tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",beIN Sports 2 Asia
+https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+#EXTINF:-1 tvg-logo="" tvg-url="" group-title="",BEIN SPORTS 2 UHD
+http://bazarhd.online:80/307210113151/307210113151/80391
+#EXTINF:-1 tvg-logo="" tvg-url="" group-title="",BEINSPORTS 1 HD
+http://bazarhd.online:80/307210113151/307210113151/80393
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8 
