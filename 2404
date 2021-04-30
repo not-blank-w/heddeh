@@ -112,33 +112,35 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang HD
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27466
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524286
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/13103
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484961
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Kids",Cartoonito 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18790
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484960
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel HD
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/22823
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2577829
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18065
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2577830
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://banner2.cleanpng.com/20180927/iy/kisspng-logo-nickelodeon-television-channel-corus-entertai-rglement-jeu-concours-ariana-grande-news-nickel-5bacd1a3eb84e4.2542344115380525159647.jpg" ,Nickelodeon
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484959
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Kids",Nick Jr.
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27456
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484958
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Kids",NickToons 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27457
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484976
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teennick.jpg" group-title="Kids",NickTeen 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27459
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1192950
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skycinemaanimationuk.jpg" group-title="Kids",Sky Cinema Animation 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/72660
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33952
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1192526
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TéléToon East 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29485
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2473651
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/26273
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1192960
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal", ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
@@ -1135,6 +1137,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports2.png" tvg-url="" group-title="Sports",Fox Sports 2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports2.png" tvg-url="" group-title="Sports",Fox Sports 2 (2)
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524587
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 (2)
