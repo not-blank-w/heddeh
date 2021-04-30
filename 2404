@@ -120,9 +120,11 @@ http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484960
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2577829
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549157
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2577830
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids", Disney XD
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549156
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://banner2.cleanpng.com/20180927/iy/kisspng-logo-nickelodeon-television-channel-corus-entertai-rglement-jeu-concours-ariana-grande-news-nickel-5bacd1a3eb84e4.2542344115380525159647.jpg" ,Nickelodeon
@@ -330,9 +332,9 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7315
 #EXTINF:-1  tvg-logo="https://static.epg.best/il/MTV.il.png"  group-title="Music",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV UK" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Music",MTV 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/2670
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549711
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV HD UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Music",MTV HD
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/20031
+http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484985
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png"  group-title="Music",MTV Animaciones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png"  group-title="Music",MTV Are you the One?
