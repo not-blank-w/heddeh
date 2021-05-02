@@ -135,6 +135,8 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7052_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2sdq4dQ/KABILLION.png" group-title="Kids",Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" tvg-url="" group-title="Lids",Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Kids",Nick Jr.
