@@ -112,19 +112,19 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524286
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1962
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484961
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/3967
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Kids",Cartoonito 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484960
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18790
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549157
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/22823
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549178
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18065
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids", Disney XD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549156
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/11524
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQSmG9Zd/GEM-KIDS.png" group-title="Kids",GEM KIDS
@@ -139,26 +139,36 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Kids",Nickelodeon
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29486
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Kids",Nick Jr.
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484958
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/2669
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Kids",NickToons 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484976
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teennick.jpg" group-title="Kids",NickTeen 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1192950
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14824
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/pop.jpg" group-title="Kids",Pop UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14869
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popplus1.jpg" group-title="Kids",Pop +1 UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14868
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmax.jpg" group-title="Kids",Pop Max UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14867
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmaxuk.jpg" group-title="Kids",Pop Max +1 UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14875
 #EXTINF:-1 tvg-id="spacetoonplus" tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="Kids",SPACETOON 
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skycinemaanimationuk.jpg" group-title="Kids",Sky Cinema Animation 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/72660
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1192526
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33952
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TeleToon East 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2473651
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29485
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tinypop.jpg" group-title="Kids",Tiny Pop UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/9898
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1192960
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/26273
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="Lokal",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
@@ -416,9 +426,9 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7315
 #EXTINF:-1  tvg-logo="https://static.epg.best/il/MTV.il.png"  group-title="Music",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV UK" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Music",MTV 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549711
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18076
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV HD UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Music",MTV HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484985
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/20031
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png"  group-title="Music",MTV Animaciones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png"  group-title="Music",MTV Are you the One?
@@ -498,7 +508,6 @@ http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/s_ab/ab32e0ee56ece3fd3ba9561b568bbf4b.jpeg" group-title="Movies",Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO (IDN)
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png" group-title="Movies",HBO
@@ -1056,7 +1065,7 @@ http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Premium",Animal Planet Asia
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet HD US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Premium",Animal Planet HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549737
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/12060
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png""https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" tvg-url="" group-title="Premium",Animal Planet 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Premium",Asian Food Network
@@ -1066,7 +1075,7 @@ http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth ID
 http://mvu03.wanicelife.com:8880/Isuf.Zeqiri.Dhurate.IPTVSHQIP/4pjztBBPxy/28863
 #EXTINF:-1 tvg-id="BBCEarth.dk" tvg-name="BBC Earth HD DK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth HD 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2473647
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/24205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BBC_Food_logo.svg/200px-BBC_Food_logo.svg.png" group-title="Premium",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC.svg/120px-BBC.svg.png" tvg-url="" group-title="Premium",BBC Home
@@ -1084,7 +1093,7 @@ http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium", Bloomberg 
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8 
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://picon-13398.kxcdn.com/cbeebies.jpg" group-title="Premium",CBeebies UK
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2487184
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/3582
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="Premium", Celestial Movies 
 http://rr2.dens.tv/s/s33/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premium", CGTN 
@@ -1098,11 +1107,11 @@ http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Premium",Crime + Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Crime + Investigation UK" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Premium",Crime + Investigation UK
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2599171
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14943
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Premium",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524321
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18189
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Premium",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="disco" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="Premium",Discovery (IDN)
@@ -1110,27 +1119,27 @@ http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Premium",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Premium",Discovery Channel HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524322
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/15717
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery FHD US" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Premium", Discovery Investigation
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524376
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18071
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family HD US" tvg-logo="https://picon-13398.kxcdn.com/discoveryfamilyarb.jpg" group-title="Premium",Discovery Family 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524324
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/23424
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History UK" tvg-logo="https://picon-13398.kxcdn.com/discoveryhistory.jpg" group-title="Premium",Discovery History
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484370
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1985
 #EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life HD US" tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Premium",Discovery Life
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524325
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27036
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science UK" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1192201
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/2679
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo UK" tvg-logo="https://picon-13398.kxcdn.com/discoveryturbo.jpg" group-title="Premium",Discovery Turbo
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484367
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/3978
 #EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DMAX UK" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Premium",DMAX 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484251
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1983
 #EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium",DW English 
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium",DW TV ASIA 
 http://210.210.155.35:80/session/eb5612b6-2ef2-11eb-9468-c81f66f89318/qwr9ew/s/s26/01.m3u8 
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden UK" tvg-logo="https://picon-13398.kxcdn.com/eden.jpg" group-title="Premium",Eden
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484371
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14965
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premium", eGG TV 
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium", Fight Sports 
@@ -1144,9 +1153,9 @@ http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium", Kix 
 http://rr.dens.tv/h/h07/01.m3u8 
 #EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live UK" tvg-logo="https://picon-13398.kxcdn.com/londonlive.jpg" group-title="Premium",London Live
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2484272
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14958
 #EXTINF:-1 tvg-id="4Music.uk" tvg-name="Love Nature FHD UK" tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="Premium",Love Nature
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549238
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/26838
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium", MyCinema 
 http://rr.dens.tv/h/h90/S4/mnf.m3u8 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Premium",National Geographic Asia
@@ -1156,13 +1165,13 @@ http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549138
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild HD UK" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549735
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1968
 #EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premium" , NHK World 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8 
 #EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Premium",Outdoor Channel Asia
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannelhd.jpg" group-title="Premium",Outdoor Channel HD 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524412
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/28161
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premium",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="Premium",RUSSIA TODAY 
@@ -1170,7 +1179,7 @@ http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premium",SKYNEWS 
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8 
 #EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel US" tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian 
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524440
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/25559
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premium", Sony GEM TV 
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Premium", Sony One 
@@ -1188,7 +1197,7 @@ http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uatv.png" group-title="Premium",UA 
 http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8 
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524478
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27454
 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/ahsantv.png", AHSAN TV 
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
