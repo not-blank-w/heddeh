@@ -1161,7 +1161,7 @@ http://rr.dens.tv/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Premium",National Geographic Asia
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD UK" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographic.jpg" group-title="Premium",National Geographic HD
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1549138
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/3561
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild HD UK" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild HD
@@ -1264,10 +1264,12 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports1.png" tvg-url="" group-title="Sports",Fox Sports 1 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports1.png" tvg-url="" group-title="Sports",Fox Sports 1 (2)
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/9031
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports2.png" tvg-url="" group-title="Sports",Fox Sports 2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports2.png" tvg-url="" group-title="Sports",Fox Sports 2 (2)
-http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/1524587
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/9030
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 (2)
