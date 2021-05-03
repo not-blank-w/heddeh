@@ -1169,6 +1169,8 @@ http://rr.dens.tv/h/h90/S4/mnf.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD UK" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographic.jpg" group-title="Premium",National Geographic HD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/3561
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People 
+https://nonton.site:8443/provision/pp/455
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild HD UK" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild HD
