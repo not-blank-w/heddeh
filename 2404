@@ -182,7 +182,7 @@ http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 https://e1.siar.us/badartv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="Lokal",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AhAy58i.png" group-title="TV DAERAH",BAYU TV [nganjuk]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AhAy58i.png" group-title="Lokal",BAYU TV [nganjuk]
 http://wms.klikhost.com/bayutv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="Lokal", Bali TV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
@@ -526,13 +526,11 @@ https://nonton.site:8443/provision/pp/1195
 https://nonton.site:8443/provision/pp/957
 #EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="Movies",IMC SD
 https://nonton.site:8443/provision/pp/35484
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX 
-https://nonton.site:8443/provision/pp/8
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime 
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movies",LifeTime 
 https://nonton.site:8443/provision/pp/866
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network US" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Movies",Paramount Network US
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/13107
-#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movies",Red By HBO 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movies",Red By HBO 
 https://nonton.site:8443/provision/pp/4832
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" tvg-url="" group-title="PlutoTv",Pluto TV The Addams Family
@@ -1122,6 +1120,8 @@ http://203.154.243.31:15001
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14943
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Premium",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Premium",Da Vinci Learning
+https://nonton.site:8443/provision/pp/36729
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18189
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Premium",Discovery
