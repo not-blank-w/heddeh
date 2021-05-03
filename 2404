@@ -1276,11 +1276,15 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesal TV 
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN SPORTS 1 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33648
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN SPORTS 2 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
+https://nonton.site:8443/provision/pp/728
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sports 2 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33649
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN SPORTS 3 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
+https://nonton.site:8443/provision/pp/729
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN Sports 3 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33650
 #EXTINF:-1  tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
