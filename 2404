@@ -506,6 +506,8 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png" group-title="Movies",FoxFamilyMovie
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movies",FOX Family Movies (Dubb)
+https://nonton.site:8443/provision/pp/14994
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxmovies.png" group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife
