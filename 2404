@@ -95,24 +95,20 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/73859
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Raising Hope" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91L8REihHTL._SL1500_.jpg" group-title="24/7",24/7 Raising Hope
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/77688
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Kids",ABC Kids
-https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/abckidsau.jpg" group-title="Kids",ABC Kids National AU
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33918
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Kids", Animax 
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Kids", Aniplus 
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8 
-#EXTINF:-1 tvg-logo="http://scmuseum.org/wp-content/uploads/2017/02/AstroKids-Social.jpg" group-title="Kids",Astro Kids
-http://51.79.208.146:61980/myplay/c_58046/index.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1962
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
 https://nonton.site:8443/provision/pp/305
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
@@ -123,8 +119,6 @@ https://nonton.site:8443/provision/pp/680
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18790
 #EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
 https://nonton.site:8443/provision/pp/491
-#EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/22823
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel 
@@ -133,16 +127,12 @@ https://nonton.site:8443/provision/pp/306
 https://nonton.site:8443/provision/pp/3479
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18065
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior ID
 https://nonton.site:8443/provision/pp/213
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids", Disney XD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/11524
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQSmG9Zd/GEM-KIDS.png" group-title="Kids",GEM KIDS
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHwrw4K/GEM-JUNIOR.png" group-title="Kids",GEM Junior
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7052_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2sdq4dQ/KABILLION.png" group-title="Kids",Kabillion
@@ -186,6 +176,8 @@ https://nonton.site:8443/provision/pp/14104
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="Lokal",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="Lokal",Antara TV
+https://nonton.site:8443/provision/pp/32586
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal", ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="Lokal",ARIRANG 
@@ -264,10 +256,6 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal",KOMPAS TV 
 http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls1.png" group-title="Lokal",Live Streaming 1 
-http://rr3.dens.tv/s/s100/live.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls2.png" group-title="Lokal",Live Streaming 2 
-http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",Magna TV 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/maxstreammusic.png" group-title="Lokal",MAXSTREAM Music 
@@ -328,8 +316,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.postimg.cc/JnfB7pm3/logo-tvone-big1.png" group-title="Lokal",TV ONE 
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal",TV ONE (2)
-https://stream-06.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybAHYFkzuITqCF6lpcmcEdBE)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title="Lokal",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="useephoto" tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Lokal", Usee Photo 
@@ -1132,6 +1118,8 @@ http://203.154.243.31:15001
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14943
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Premium",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci (VN)
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Premium",Da Vinci Learning
 https://nonton.site:8443/provision/pp/36729
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
