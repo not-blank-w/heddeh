@@ -111,18 +111,30 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1962
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
+https://nonton.site:8443/provision/pp/305
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/3967
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID
+https://nonton.site:8443/provision/pp/680
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Kids",Cartoonito 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18790
+#EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
+https://nonton.site:8443/provision/pp/491
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/22823
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel 
+https://nonton.site:8443/provision/pp/306
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
+https://nonton.site:8443/provision/pp/3479
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18065
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
+https://nonton.site:8443/provision/pp/213
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids", Disney XD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/11524
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
@@ -169,6 +181,8 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/9898
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/26273
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo 
+https://nonton.site:8443/provision/pp/14104
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="Lokal",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
@@ -1216,11 +1230,15 @@ http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/
 https://nonton.site:8443/provision/pp/36732
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uatv.png" group-title="Premium",UA 
 http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Premium",Waku Waku Japan
+https://nonton.site:8443/provision/pp/717
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27454
 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/ahsantv.png", AHSAN TV 
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Al-Iman TV" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="Religi",Al-Iman TV
+https://nonton.site:8443/provision/pp/26631
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="Religi",AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/alimantv.png", AL-ImanTV 
@@ -1251,6 +1269,8 @@ http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMMm3447/NU-CHANNEL.png" group-title="Religi",NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-rodjatv-1-1-300x87.png" group-title="Religi",Rodja TV
+https://nonton.site:8443/provision/pp/843
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/salamtv.png", Salam TV 
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png" group-title="Religi",SalingSapa TV
