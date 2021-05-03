@@ -176,7 +176,7 @@ https://nonton.site:8443/provision/pp/14104
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="Lokal",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="Lokal",Antara TV
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antara.png" group-title="Lokal",Antara TV
 https://nonton.site:8443/provision/pp/32586
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal", ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
@@ -1118,9 +1118,9 @@ http://203.154.243.31:15001
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/14943
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Premium",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci (VN)
+#EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci (VN)
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Premium",Da Vinci Learning
+#EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci Learning
 https://nonton.site:8443/provision/pp/36729
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18189
@@ -1221,11 +1221,9 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27454
 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/ahsantv.png", AHSAN TV 
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Al-Iman TV" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="Religi",Al-Iman TV
-https://nonton.site:8443/provision/pp/26631
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="Religi",AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/alimantv.png", AL-ImanTV 
+#EXTINF:-1 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png", AL-ImanTV 
 https://tv.rodja.live/aliman/HD/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q5wbRs1/AL-SUNNAH-AL-NABAWIYAH.png" group-title="Religi",Al Sunnah An Nabawiyyah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
