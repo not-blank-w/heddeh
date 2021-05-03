@@ -1278,11 +1278,11 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33648
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sport 1 ID
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sports 2 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33649
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN Sports 3 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33650
