@@ -502,7 +502,7 @@ https://nonton.site:8443/provision/pp/908
 https://nonton.site:8443/provision/pp/5
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png",Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax FHD
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movies",Cinemax 
 https://nonton.site:8443/provision/pp/30185
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/fox.png" group-title="Movies",Fox
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
@@ -516,9 +516,9 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movies",Fox Life (2)
 https://nonton.site:8443/provision/pp/94
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movie",Galaxy Premium SD
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium 
 https://nonton.site:8443/provision/pp/29603
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movie",Galaxy SD
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movies",Galaxy 
 https://nonton.site:8443/provision/pp/29604
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO 
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
