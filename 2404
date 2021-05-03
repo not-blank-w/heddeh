@@ -1072,12 +1072,14 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/12060
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png""https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" tvg-url="" group-title="Premium",Animal Planet 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Premium",Animal Planet (IDN)
+https://nonton.site:8443/provision/pp/358
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Premium",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Premium", AXN 
 http://rr.dens.tv/h/h141/01.m3u8 
-#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth ID
-http://mvu03.wanicelife.com:8880/Isuf.Zeqiri.Dhurate.IPTVSHQIP/4pjztBBPxy/28863
+#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth 
+https://nonton.site:8443/provision/pp/385
 #EXTINF:-1 tvg-id="BBCEarth.dk" tvg-name="BBC Earth HD DK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth HD 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/24205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BBC_Food_logo.svg/200px-BBC_Food_logo.svg.png" group-title="Premium",BBC Food
@@ -1170,9 +1172,11 @@ http://rr.dens.tv/h/h90/S4/mnf.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD UK" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographic.jpg" group-title="Premium",National Geographic HD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/3561
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Premium",Nat Geographic (IDN)
+https://nonton.site:8443/provision/pp/96
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People (IDN)
 https://nonton.site:8443/provision/pp/455
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild (IDN)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild HD UK" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild HD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1968
