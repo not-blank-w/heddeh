@@ -500,16 +500,21 @@ http://89.106.234.4/amedia_hit_hd_34_35.m3u8
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="ksa.cinemax" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY5OTkyNDh9fX1dfQ__&Signature=c~ImFdEx54ZO6o07Pis5E5itrKFr1L3i9L1KqTgLmbSgwSTqqkT2GAz3VpE3RXpE20xBq35eNbyaLseS909ulMt5Izt2dRSmzCyZcbwmvqk-Zkdj~8Mgf5vIPCdMa6qAii7zrM8wCQyGO2-8aXLoEnwdaqQRqitBcgNr1MkUF0uyGlQqGMHLE6mySoj8t2HQBY6Hg9BIRSxVkMFixlw-RAuYAiAshJHNyMjEmXoifzoyumvT1gB04Pvm6vic-XCrRVNir94QWYf03blq-I5~ZGEBr-1JpJKpIJKUgJBeg255--8eGaGGKQF7tQDOVfZsM5POkpH9KF5nc-ejWyiuMA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/fox.png" group-title="Movies",Fox
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/s_ab/ab32e0ee56ece3fd3ba9561b568bbf4b.jpeg" group-title="Movies",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png" group-title="Movies",FoxFamilyMovie
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxmovies.png" group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png" group-title="Movies",FoxFamilyMovie
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/fox.png" group-title="Movies",Fox HD
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/s_ab/ab32e0ee56ece3fd3ba9561b568bbf4b.jpeg" group-title="Movies",Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movies",Fox Life (2)
+https://nonton.site:8443/provision/pp/94
+
+
+
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO 
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO Family
@@ -520,8 +525,8 @@ https://nonton.site:8443/provision/pp/591
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network US" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Movies",Paramount Network US
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/13107
-#EXTINF:-1 tvg-id="redbyhbo" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO HD
+https://nonton.site:8443/provision/pp/4832
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" tvg-url="" group-title="PlutoTv",Pluto TV The Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
