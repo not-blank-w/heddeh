@@ -1188,10 +1188,14 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/28161
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premium",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="" group-title="Premium",Ruang Terampil
+https://nonton.site:8443/provision/pp/36731
 #EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="Premium",RUSSIA TODAY 
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premium",SKYNEWS 
-http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8 
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Premium",Smithsonian (IDN)
+https://nonton.site:8443/provision/pp/35998
 #EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel US" tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian 
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/25559
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premium", Sony GEM TV 
@@ -1208,6 +1212,8 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://210.210.155.35:80/session/c6731b1a-2ef2-11eb-94e7-b82a72d63267/qwr9ew/s/s24/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/style.png" group-title="Premium", TV5MONDE Style 
 http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/01.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="" group-title="Premium",TV Edukasi
+https://nonton.site:8443/provision/pp/36732
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uatv.png" group-title="Premium",UA 
 http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8 
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
