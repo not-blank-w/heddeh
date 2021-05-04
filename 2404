@@ -1253,7 +1253,7 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mgitv.png" group-title="Religi",MGI TV 
 https://tv.rodja.live/tasik/mgitv/index.m3u8 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/muadztv.png", MuadzTV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/muadztv.png" group-title="Religi",MuadzTV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsNXtthD/NABAWI-TV.png" group-title="Religi",NABAWI TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
