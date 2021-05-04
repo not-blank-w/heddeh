@@ -1237,14 +1237,12 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png", AL-ImanTV 
 https://tv.rodja.live/aliman/HD/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Religi",Al Quran Al Kareem TV 
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q5wbRs1/AL-SUNNAH-AL-NABAWIYAH.png" group-title="Religi",Al Sunnah An Nabawiyyah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM83Ljm2/ASHIIL-TV.png" group-title="Religi",ASHIIL TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Premium",Al Quran Al Kareem TV 
-http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/madinah.png" group-title="Premium",AL Sunnah Nabawi TV 
-http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="Religi",Iqraa TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV 
