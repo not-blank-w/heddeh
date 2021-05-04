@@ -482,11 +482,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e86bf
 #EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032018/untitled-3_18.png?OtKokB0.DfZ4wYhAcv3DR.iR2B5GZoE0&itok=jJhSg7H5"  group-title="Music",MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/flix.png" group-title="Movies",&Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png" group-title="Movies",&pictures
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png" group-title="Movies",&pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/prive.png" group-title="Movies",&Prive 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="Movies",Action Hollywood Movies
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
@@ -500,7 +500,7 @@ https://nonton.site:8443/provision/pp/9
 https://nonton.site:8443/provision/pp/908
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movies
 https://nonton.site:8443/provision/pp/5
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png",Cinema World
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movies",Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movies",Cinemax 
 https://nonton.site:8443/provision/pp/30185
@@ -1231,11 +1231,11 @@ https://nonton.site:8443/provision/pp/717
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27454
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/ahsantv.png", AHSAN TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ahsantv.png" group-title="Religi",AHSAN TV 
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="Religi",AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png", AL-ImanTV 
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="Religi",AL-ImanTV 
 https://tv.rodja.live/aliman/HD/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Religi",Al Quran Al Kareem TV 
 http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8 
@@ -1245,13 +1245,13 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="Religi",Iqraa TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/izzahtv.png" group-title="Religi",IZZAH TV 
 https://streaming.sigraduta.co.id/izzahtv.m3u8 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV 2 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/izzahtv.png" group-title="Religi",IZZAH TV 2 
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png" group-title="Religi",MADANI TV
 https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mgitv.png", MGI TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mgitv.png" group-title="Religi",MGI TV 
 https://tv.rodja.live/tasik/mgitv/index.m3u8 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/muadztv.png", MuadzTV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8 
@@ -1263,15 +1263,15 @@ http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Lokal",RODJA TV 
 http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/salamtv.png", Salam TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/salamtv.png" group-title="Religi",Salam TV 
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png" group-title="Religi",SalingSapa TV
 https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/chunklist_w1765334579.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/surautv.png", Surau TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/surautv.png" group-title="Religi",Surau TV 
 http://119.235.249.58:1935/surautv/live/playlist.m3u8 
 #EXTINF:-1 tvg-id="tv9" tvg-logo="https://i.postimg.cc/Kvz1x1RN/logo-tv9-big.png" group-title="Religi",TV9 
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesal TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/wesaltv.png" group-title="Religi",Wesal TV 
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
