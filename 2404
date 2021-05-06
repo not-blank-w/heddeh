@@ -365,7 +365,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa
 #EXTINF:-1  tvg-logo="http://i.imgur.com/dh6sgLX.jpg"  group-title="Music",MTV Mistle YO!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music UK" tvg-logo="https://picon-13398.kxcdn.com/mtvmusic.jpg" group-title="Music",MTV Music 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7316
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223347
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png"  group-title="Music",MTV pluto.tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png"  group-title="Music",MTV Pranks
@@ -1176,15 +1176,15 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33648
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/251238
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sport 1 ID
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sports 2 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33649
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/251239
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN Sports 3 
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/33650
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/251253
 #EXTINF:-1  tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
@@ -1197,20 +1197,18 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_480p/index.
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="Sports",Champion 3 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/zJGOBP_Nk2WBTR5Ny75XTfiy9s_qH0qg9zxeZmfjEAvA1bhq3blRsPOZ457_52RN5Yr9" tvg-url="" group-title="Sports",Fox Sports Asia (720p)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zJGOBP_Nk2WBTR5Ny75XTfiy9s_qH0qg9zxeZmfjEAvA1bhq3blRsPOZ457_52RN5Yr9" tvg-url="" group-title="Sports",Fox Sports Asia 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports1.png" tvg-url="" group-title="Sports",Fox Sports 1 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" tvg-url="" group-title="Sports",Fox Sports 1 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports1.png" tvg-url="" group-title="Sports",Fox Sports 1 (2)
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/9031
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports2.png" tvg-url="" group-title="Sports",Fox Sports 2 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" tvg-url="" group-title="Sports",Fox Sports 2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports2.png" tvg-url="" group-title="Sports",Fox Sports 2 (2)
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/9030
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 (2)
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" tvg-url="" group-title="Sports",Fox Sports 3 (2)
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" tvg-url="" group-title="Sports",Fox Sports Racing
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222937
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/redbulltv.png" tvg-url="" group-title="Sports",Red Bull TV (1080p)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sports",Abu Dhabi Sports 1 (1080p)
