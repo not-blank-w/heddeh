@@ -21,17 +21,21 @@ http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222704
 #EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
 https://nonton.site:8443/provision/pp/491
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250077
+https://nonton.site:8443/provision/pp/306
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel 
 https://nonton.site:8443/provision/pp/306
 #EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
 https://nonton.site:8443/provision/pp/3479
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
+https://nonton.site:8443/provision/pp/213
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior ID
 http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250078
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior ID
 https://nonton.site:8443/provision/pp/213
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids", Disney XD
 http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250079
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-tittle="Kids",Dream Works HD
+https://nonton.site:8443/provision/pp/32529
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee 
