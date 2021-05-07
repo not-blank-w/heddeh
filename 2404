@@ -7,17 +7,17 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250055
+http://etvhome.com:25461/2118/1234/35013
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
 https://nonton.site:8443/provision/pp/305
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222705
+http://etvhome.com:25461/2118/1234/35015
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID
 https://nonton.site:8443/provision/pp/680
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Kids",Cartoonito 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222704
+
 #EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
 https://nonton.site:8443/provision/pp/491
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel 
@@ -28,12 +28,14 @@ https://nonton.site:8443/provision/pp/306
 https://nonton.site:8443/provision/pp/3479
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
 https://nonton.site:8443/provision/pp/213
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior ID
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250078
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior 
+http://etvhome.com:25461/2118/1234/35354
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior ID
 https://nonton.site:8443/provision/pp/213
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids", Disney XD
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250079
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD
+http://etvhome.com:25461/2118/1234/35331
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD (2)
+http://etvhome.com:25461/2118/1234/35502
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-tittle="Kids",Dream Works HD
 https://nonton.site:8443/provision/pp/32529
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
@@ -47,35 +49,35 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56e
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Kids",Nickelodeon
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222702
+http://etvhome.com:25461/2118/1234/35273
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Kids",Nick Jr.
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222700
+http://etvhome.com:25461/2118/1234/73676
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Kids",NickToons 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222711
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="Kids",PBS Kids
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223805
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/pop.jpg" group-title="Kids",Pop UK
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222712
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popplus1.jpg" group-title="Kids",Pop +1 UK
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223564
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmax.jpg" group-title="Kids",Pop Max UK
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222713
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmaxuk.jpg" group-title="Kids",Pop Max +1 UK
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223562
+
 #EXTINF:-1 tvg-id="spacetoonplus" tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="Kids",SPACETOON 
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skycinemaanimationuk.jpg" group-title="Kids",Sky Cinema Animation 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222574
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/224019
+http://etvhome.com:25461/2118/1234/24496
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TeleToon East 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223143
+ 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tinypop.jpg" group-title="Kids",Tiny Pop UK
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223560
+ 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223841
+http://etvhome.com:25461/2118/1234/35209
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo 
 https://nonton.site:8443/provision/pp/14104
 
@@ -298,6 +300,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI PAPUA 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B1YMJuYxBAw/maxresdefault.jpg" group-title="Music",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4PPstd.png" group-title="Music",ALB MUSIC
@@ -328,14 +331,12 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.m3u8
 #EXTINF:-1  tvg-logo="https://static.epg.best/il/MTV.il.png"  group-title="Music",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV HD UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Music",MTV UHD
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222601
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png"  group-title="Music",MTV Animaciones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png"  group-title="Music",MTV Are you the One?
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV Base UK" tvg-logo="https://picon-13398.kxcdn.com/mtvbase.jpg" group-title="Music",MTV Base 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223344
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbase.jpg" group-title="Music",MTV Base 
+ 
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png"  group-title="Music",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
@@ -346,10 +347,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png"  group-title="Music",MTV Catfish TV Show
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTV Classic UK" tvg-logo="https://picon-13398.kxcdn.com/mtvclassic.jpg" group-title="Music",MTV Classic 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223345
-#EXTINF:-1 tvg-id="4Music.uk" tvg-name="Club MTV UK" tvg-logo="https://picon-13398.kxcdn.com/clubmtvuk.jpg" group-title="Music",MTV Club 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250718
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvclassic.jpg" group-title="Music",MTV Classic 
+ 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/clubmtvuk.jpg" group-title="Music",MTV Club 
+ 
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5ea815a515d149000748ee9b/colorLogoPNG.png"  group-title="Music",MTV Cribs
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea815a515d149000748ee9b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG.png"  group-title="Music",MTV Dating
@@ -357,19 +358,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a3
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png"  group-title="Music",MTV Dating
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf330ea5068259a32320fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhits.jpg" group-title="Music",MTV Hits 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223346
+http://etvhome.com:25461/2118/1234/45108
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png"  group-title="Music",MTV Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="http://kamiselaluada.com/img/mtv.png"  group-title="Music",MTV Live 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD UK" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Music",MTV Live FHD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Music",MTV Live FHD
 http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223348
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png"  group-title="Music",MTV Love Music
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1  tvg-logo="http://i.imgur.com/dh6sgLX.jpg"  group-title="Music",MTV Mistle YO!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music UK" tvg-logo="https://picon-13398.kxcdn.com/mtvmusic.jpg" group-title="Music",MTV Music 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223347
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvmusic.jpg" group-title="Music",MTV Music 
+http://etvhome.com:25461/2118/1234/45107
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png"  group-title="Music",MTV pluto.tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png"  group-title="Music",MTV Pranks
@@ -382,6 +383,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cffcf568
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032018/untitled-3_18.png?OtKokB0.DfZ4wYhAcv3DR.iR2B5GZoE0&itok=jJhSg7H5"  group-title="Music",MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NickMusic_Logo.png/800px-NickMusic_Logo.png" group-title="Music",Nick Music
+http://etvhome.com:25461/2118/1234/28574
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/flix.png" group-title="Movies",&Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8 
@@ -423,12 +426,20 @@ https://nonton.site:8443/provision/pp/29603
 https://nonton.site:8443/provision/pp/29604
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO 
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="Movies",HBO (USA)
+http://etvhome.com:25461/2118/1234/28130
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO Family
 https://nonton.site:8443/provision/pp/592
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
 https://nonton.site:8443/provision/pp/591
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HkWSjGn.png" group-title="Movies",HBO POP SD
+http://etvhome.com:25461/2118/1234/34966
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbosig.png" group-title="Movies",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/HBO/premium-channel-hbo-signature-logo.jpg" group-title="Movies",HBO Signature (USA)
+http://etvhome.com:25461/2118/1234/76404
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5ZuZBL.png" group-title="Movies",HBO ZONE
+http://etvhome.com:25461/2118/1234/28132
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movies",HITS 
 https://nonton.site:8443/provision/pp/1195
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies",Hits Movie 
@@ -438,9 +449,11 @@ https://nonton.site:8443/provision/pp/35484
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movies",LifeTime 
 https://nonton.site:8443/provision/pp/866
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Movies",Paramount Network US
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223019
+http://etvhome.com:25461/2118/1234/28827
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movies",Red By HBO 
 https://nonton.site:8443/provision/pp/4832
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXDYf91/1200px-Sony-Channel-latam-logo-svg.png" group-title="Movies",SONY CHANNEL SD
+http://etvhome.com:25461/2118/1234/13369
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movies",Star Chinese Movies Legend
 https://nonton.site:8443/provision/pp/1859
 
@@ -980,7 +993,7 @@ http://210.210.155.35:80/session/c461c448-2ede-11eb-9da2-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Premium",Animal Planet Asia
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Premium",Animal Planet HD
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223243
+http://etvhome.com:25461/2118/1234/80772
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png""https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" tvg-url="" group-title="Premium",Animal Planet 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Premium",Animal Planet (IDN)
@@ -991,10 +1004,6 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://rr.dens.tv/h/h141/01.m3u8 
 #EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth 
 https://nonton.site:8443/provision/pp/385
-#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC EARTH HD
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222790
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth (SONY)
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/272994
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BBC_Food_logo.svg/200px-BBC_Food_logo.svg.png" group-title="Premium",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC.svg/120px-BBC.svg.png" tvg-url="" group-title="Premium",BBC Home
@@ -1012,7 +1021,7 @@ http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium", Bloomberg 
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8 
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://picon-13398.kxcdn.com/cbeebies.jpg" group-title="Premium",CBeebies UK
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/272870
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="Premium", Celestial Movies 
 http://rr2.dens.tv/s/s33/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="Premium", CGTN 
@@ -1025,16 +1034,16 @@ http://rr.dens.tv/h/h04/01.m3u8
 http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8 
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Premium",Crime + Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Premium",Crime + Investigation UK
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222863
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Premium",Crime + Investigation
+http://etvhome.com:25461/2118/1234/80799
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Premium",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci (VN)
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci Learning
 https://nonton.site:8443/provision/pp/36729
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250546
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
+
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Premium",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="disco" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="Premium",Discovery (IDN)
@@ -1042,31 +1051,31 @@ http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Premium",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Premium",Discovery Channel HD
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222919
+http://etvhome.com:25461/2118/1234/35059
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Premium", Discovery Investigation
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222977
+http://etvhome.com:25461/2118/1234/73306
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryfamilyarb.jpg" group-title="Premium",Discovery Family 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250549
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryhistory.jpg" group-title="Premium",Discovery History
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223262
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/200px-H%26h_Logo.svg.png" group-title="Premium",Discovery Home & Health
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223263
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Premium",Discovery Life
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250551
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250554
+http://etvhome.com:25461/2118/1234/35499
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryturbo.jpg" group-title="Premium",Discovery Turbo
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223266
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_Velocity_logo.jpg/180px-Discovery_Velocity_logo.jpg" group-title="Premium", Discovery Velocity
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222921
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Premium",DMAX 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223555
+
 #EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium",DW English 
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium",DW TV ASIA 
 http://210.210.155.35:80/session/eb5612b6-2ef2-11eb-9468-c81f66f89318/qwr9ew/s/s26/01.m3u8 
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden UK" tvg-logo="https://picon-13398.kxcdn.com/eden.jpg" group-title="Premium",Eden
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250084
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premium", eGG TV 
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium", Fight Sports 
@@ -1080,13 +1089,13 @@ http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium", Kix 
 http://rr.dens.tv/h/h07/01.m3u8 
 #EXTINF:-1 tvg-id="4Music.uk" tvg-name="Love Nature FHD UK" tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="Premium",Love Nature
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222987
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium", MyCinema 
 http://rr.dens.tv/h/h90/S4/mnf.m3u8 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Premium",National Geographic Asia
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nationalgeographic.jpg" group-title="Premium",National Geographic HD
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223002
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Premium",Nat Geographic (IDN)
 https://nonton.site:8443/provision/pp/96
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People (IDN)
@@ -1094,15 +1103,13 @@ https://nonton.site:8443/provision/pp/455
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild (IDN)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223003
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild (CA)
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223004
+
 #EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premium" , NHK World 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8 
 #EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Premium",Outdoor Channel Asia
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannelhd.jpg" group-title="Premium",Outdoor Channel HD 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250635
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premium",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="Premium",Ruang Terampil
@@ -1114,7 +1121,7 @@ http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Premium",Smithsonian (IDN)
 https://nonton.site:8443/provision/pp/35998
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian Channel US
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250659
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premium", Sony GEM TV 
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Premium", Sony One 
@@ -1134,7 +1141,7 @@ http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Premium",Waku Waku Japan
 https://nonton.site:8443/provision/pp/717
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/249672
+http://etvhome.com:25461/2118/1234/79042
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ahsantv.png" group-title="Religi",AHSAN TV 
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
@@ -1180,15 +1187,15 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/251238
+http://etvhome.com:25461/2118/1234/97746
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sport 1 ID
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sports 2 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/251239
+http://etvhome.com:25461/2118/1234/97733
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN Sports 3 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/251253
+http://etvhome.com:25461/2118/1234/97734
 #EXTINF:-1  tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
@@ -1196,11 +1203,11 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="Sports", BT Sports 2 
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="champion1" tvg-logo="https://i.postimg.cc/tTxrMjBX/logo-champ1-big.png" group-title="Sports",Champion 1 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="champion2" tvg-logo="https://i.postimg.cc/mgL52Kgw/logo-champ2-big.png" group-title="Sports",Champion 2 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="Sports",Champion 3 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zJGOBP_Nk2WBTR5Ny75XTfiy9s_qH0qg9zxeZmfjEAvA1bhq3blRsPOZ457_52RN5Yr9" tvg-url="" group-title="Sports",Fox Sports Asia 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" tvg-url="" group-title="Sports",Fox Sports 1 
