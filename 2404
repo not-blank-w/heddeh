@@ -1042,14 +1042,12 @@ https://nonton.site:8443/provision/pp/36729
 
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Premium",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="disco" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="Premium",Discovery (IDN)
+#EXTINF:-1 tvg-id="disco" tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Premium",Discovery (IDN)
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-#EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Premium",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Premium",Discovery Channel (AirTel)
-https://m3u-editor.com/serve/e76e70a0-a843-11eb-8bf4-ff54c7e3d3d6/281711023
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Premium",Discovery Channel HD
 http://etvhome.com:25461/2118/1234/35059
+#EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Premium",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Premium", Discovery Investigation
 http://etvhome.com:25461/2118/1234/73306
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryfamilyarb.jpg" group-title="Premium",Discovery Family 
