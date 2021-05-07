@@ -159,6 +159,8 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal",KOMPAS TV 
 http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="Lokal",Lingua 
+https://nonton.site:8443/provision/pp/14944
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",Magna TV 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/maxstreammusic.png" group-title="Lokal",MAXSTREAM Music 
@@ -177,8 +179,6 @@ https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",Mytv 
 http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="Lokal",NASA TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal",NET. 
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="Lokal",Nusantara TV 
@@ -1092,14 +1092,14 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium", Kix 
 http://rr.dens.tv/h/h07/01.m3u8 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="Premium",Lingua 
-https://nonton.site:8443/provision/pp/14944
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="Premium",Love Nature
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/334125
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="Premium",Love Nature (2)
 https://nonton.site:8443/provision/pp/36767
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium", MyCinema 
 http://rr.dens.tv/h/h90/S4/mnf.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="Premium",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Premium",National Geographic Asia
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nationalgeographic.jpg" group-title="Premium",National Geographic HD
