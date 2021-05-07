@@ -66,6 +66,8 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
 http://etvhome.com:25461/2118/1234/24496
+#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_kids_family_east.png" group-title="Kids",Starz Kids & Family HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20873
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TeleToon East 
  
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tinypop.jpg" group-title="Kids",Tiny Pop UK
