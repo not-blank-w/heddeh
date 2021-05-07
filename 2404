@@ -1004,6 +1004,8 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://rr.dens.tv/h/h141/01.m3u8 
 #EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Premium",BBC Earth 
 https://nonton.site:8443/provision/pp/385
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA: BBC EARTH HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/bbc_earth_uk.png" group-title="ENGLISH",CA: BBC EARTH HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/329874
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BBC_Food_logo.svg/200px-BBC_Food_logo.svg.png" group-title="Premium",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC.svg/120px-BBC.svg.png" tvg-url="" group-title="Premium",BBC Home
@@ -1064,6 +1066,8 @@ http://etvhome.com:25461/2118/1234/73306
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15204
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science
 http://etvhome.com:25461/2118/1234/35499
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="Premium",Discovery Science HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryturbo.jpg" group-title="Premium",Discovery Turbo
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15506
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_Velocity_logo.jpg/180px-Discovery_Velocity_logo.jpg" group-title="Premium", Discovery Velocity
