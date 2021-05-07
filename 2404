@@ -414,11 +414,11 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png" group-title="Movies",FoxFamilyMovie
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 tvg-logo="ttp://kamiselaluada.com/img/foxlife.png" group-title="Movies",FoxLife
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",FoxLife
 https://nonton.site:8443/provision/pp/94
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife (IDN)
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 tvg-logo="ttp://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife (VN)
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife (VN)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4975
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxmovies.png" group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
