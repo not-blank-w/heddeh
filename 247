@@ -1,14 +1,16 @@
-#EXTINF:-1 group-title="24/7" , CHU CHU TV 
+#EXTINF:-1 tvg-logo="" group-title="24/7" , CHU CHU TV 
 http://ip.newboss.site:80/dindin/sdfsjfujskrez/56487
-#EXTINF:-1 group-title="24/7" , CoComelon TV 
+#EXTINF:-1 tvg-logo="" group-title="24/7" , CoComelon TV 
 http://ip.newboss.site:80/dindin/sdfsjfujskrez/56488
-#EXTINF:-1 group-title="24/7" , MASHA & THE BEAR 
+#EXTINF:-1 tvg-logo="" group-title="24/7" , MASHA & THE BEAR 
 http://ip.newboss.site:80/dindin/sdfsjfujskrez/56489
-#EXTINF:-1 group-title="24/7" , MR BEAN (CARTOON) 
+#EXTINF:-1 tvg-logo="" group-title="24/7" , MR BEAN (CARTOON) 
 http://ip.newboss.site:80/dindin/sdfsjfujskrez/56490
-#EXTINF:-1 group-title="24/7" , PINK PANTHER 
+#EXTINF:-1 tvg-logo="" group-title="24/7" , PINK PANTHER 
 http://ip.newboss.site:80/dindin/sdfsjfujskrez/56491
-#EXTINF:-1 group-title="24/7" , TALKING TOM 
+#EXTINF:-1 tvg-logo="" group-title="24/7", South Park
+http://pulselive.uk:8080/t1/t1/244900
+#EXTINF:-1 tvg-logo="" group-title="24/7" , TALKING TOM 
 http://ip.newboss.site:80/dindin/sdfsjfujskrez/56494
-#EXTINF:-1 group-title="24/7" , TOM & JERRY 
+#EXTINF:-1 tvg-logo="" group-title="24/7" , TOM & JERRY 
 http://ip.newboss.site:80/dindin/sdfsjfujskrez/56492
