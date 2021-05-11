@@ -1186,11 +1186,11 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/200px-TVMu_logo.svg.png" group-title="Religi", Muhammadiyah Tv
 https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291538050
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/TV_MUI.png/200px-TV_MUI.png" group-title="Religi", MUI TV
-https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291538044
+http://clubtv.netcoffee.id:25500/stream/channelid/1203868396?ticket=383A3CA7E5C2F1683CEDB98F94E6E26E84D00255&profile=pass
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Religi", Mta Tv
-https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291538049
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/200px-Logo_MQTV.png" group-title="Religi", MQ Tv
-https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291538048
+https://m3u-editor.com/serve/20cd6f30-a5bf-11eb-8ef5-2d2dbb90f716/279674051
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsNXtthD/NABAWI-TV.png" group-title="Religi",NABAWI TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pp6TDd2/NIAGA-TV.png" group-title="Religi",NIAGA TV
