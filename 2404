@@ -1184,13 +1184,13 @@ https://tv.rodja.live/tasik/mgitv/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/muadztv.png" group-title="Religi",MuadzTV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/200px-TVMu_logo.svg.png" group-title="Religi", Muhammadiyah Tv
-http://103.132.54.220:9221/stream/channelid/1126420583?ticket=C6BFC71152F462B5140A4ACF429A09D92B33E3A6&profile=pass 
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/TV_MUI.png/200px-TV_MUI.png" group-title="Religi", MUI TV
-http://103.132.54.220:9221/stream/channelid/1203868396?ticket=6098E959FBD03797FC46928336BC8D975A5EFF24&profile=pass
+
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Religi", Mta Tv
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/200px-Logo_MQTV.png" group-title="Religi", MQ Tv
-http://103.132.54.220:9221/stream/channelid/330305449?ticket=8DEE31525251E33296853BD6B4B71213229F8C8B&profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsNXtthD/NABAWI-TV.png" group-title="Religi",NABAWI TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pp6TDd2/NIAGA-TV.png" group-title="Religi",NIAGA TV
