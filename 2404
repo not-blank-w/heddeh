@@ -217,8 +217,12 @@ http://wms.klikhost.com/tegartv/live/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal",TRANS 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal",TRANS 7 (2)
+http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s101/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal",TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal",TRANS TV (2)
+http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
 #EXTINF:-1 tvg-id="tvedukasi" tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="Lokal",TV Edukasi 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0spsD6X/tvku.png" group-title="Lokal",TVKU
@@ -1114,8 +1118,6 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15448
 https://nonton.site:8443/provision/pp/96
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People (IDN)
 https://nonton.site:8443/provision/pp/455
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People (IDN 2)
-https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291538158
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild (IDN)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild 
