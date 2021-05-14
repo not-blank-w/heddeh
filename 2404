@@ -1234,7 +1234,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="Sports",Champion 3 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zJGOBP_Nk2WBTR5Ny75XTfiy9s_qH0qg9zxeZmfjEAvA1bhq3blRsPOZ457_52RN5Yr9" tvg-url="" group-title="Sports",Fox Sports Asia 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fox_Sports_Netherlands_Logo.png/800px-Fox_Sports_Netherlands_Logo.png" tvg-url="" group-title="Sports",Fox Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" tvg-url="" group-title="Sports",Fox Sports 1 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
