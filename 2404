@@ -40,6 +40,8 @@ http://etvhome.com:25461/2118/1234/35331
 https://nonton.site:8443/provision/pp/32529
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Kids",Halow Kids HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/139
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7052_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2sdq4dQ/KABILLION.png" group-title="Kids",Kabillion
@@ -434,6 +436,8 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 https://nonton.site:8443/provision/pp/29603
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movies",Galaxy 
 https://nonton.site:8443/provision/pp/29604
+#EXTINF:-1 tvg-logo="" group-title="Movies",Halow Movies HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/138
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO 
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="Movies",HBO (USA)
@@ -1246,6 +1250,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" tvg-url="" group-title="Sports",Fox Sports Racing
 
+#EXTINF:-1 tvg-logo=" " group-title="Sports",Halow Sport HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="http://kamiselaluada.com/img/redbulltv.png" tvg-url="" group-title="Sports",Red Bull TV (1080p)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sports",Abu Dhabi Sports 1 (1080p)
