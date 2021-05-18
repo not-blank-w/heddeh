@@ -7,37 +7,39 @@ http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg" group-title="Kids",Baby TV
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/1410
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/11425
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang 
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/11987
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/1962
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
 https://nonton.site:8443/provision/pp/305
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/1874
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/29492
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID
 https://nonton.site:8443/provision/pp/680
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Kids",Cartoonito 
 http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/18790
 #EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
-https://nonton.site:8443/provision/pp/491
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel Latino
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/107
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/3582
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel 
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/22823
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
 https://nonton.site:8443/provision/pp/3479
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
 https://nonton.site:8443/provision/pp/213
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior Latino
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/1555
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior 
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/18065
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior ID
 https://nonton.site:8443/provision/pp/213
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD Latino
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/2357
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",Dream Works HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD NL
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/12524
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",DreamWorks
 https://nonton.site:8443/provision/pp/32529
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",DreamWorks HD
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/19159
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Kids",Halow Kids HD
@@ -51,29 +53,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56e
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", MKIDZ 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Kids",Nickelodeon
-https://nonton.site:8443/6894864475/7163819284/37404
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/14825
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Kids",Nick Jr.
-https://nonton.site:8443/6894864475/7163819284/37405
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/27456
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Kids",NickToons 
-https://nonton.site:8443/6894864475/7163819284/335
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/27457
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="Kids",PBS Kids
-
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/15715
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/pop.jpg" group-title="Kids",Pop UK
 http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/14869
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popplus1.jpg" group-title="Kids",Pop +1 UK
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/2215
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/14868
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmax.jpg" group-title="Kids",Pop Max UK
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/1515
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/14867
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmaxuk.jpg" group-title="Kids",Pop Max +1 UK
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/2213
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/14875
 #EXTINF:-1 tvg-id="spacetoonplus" tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="Kids",SPACETOON 
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skycinemaanimationuk.jpg" group-title="Kids",Sky Cinema Animation 
 http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/72660
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
 http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/33952
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TeleToon + Latino 
-http://1skytv.com:8080/mag00:1A:79:01:81:31/vg6LSLaILr/1909 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TéléToon East HD CA 
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/29485
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tinypop.jpg" group-title="Kids",Tiny Pop UK
 http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/9898
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="Kids",TVO Kids
