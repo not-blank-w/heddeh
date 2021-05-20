@@ -1000,6 +1000,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff0009
 #EXTINF:-1 tvg-id="PLUTOTVENVIVO.us" tvg-name="PLUTO.TV EN VIVO" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHfqOPcJ7PulwxLDzu1XhBJalePLqRJAVXA&usqp=CAU" tvg-url="" group-title="PlutoTv",PLUTO.TV EN VIVO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
 
+#EXTINF:-1 tvg-logo="https://4kheritage.tv/wp-content/uploads/2017/07/Logo_Updated_Grey-Transparent.png" group-title="Premium" ,4K Heritage UHD US
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/72674
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Premium",ABC
 https://c.mjh.nz/101002510251/
 #EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="Premium",ABC Comedy
@@ -1084,8 +1086,10 @@ http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/1985
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Premium",Discovery Life
 http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/27036
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science UK
 http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/2679
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science US
+http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/70828
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="Premium",Discovery Science HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryturbo.jpg" group-title="Premium",Discovery Turbo
