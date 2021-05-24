@@ -1213,7 +1213,7 @@ http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMMm3447/NU-CHANNEL.png" group-title="Religi",NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Lokal",RODJA TV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi",RODJA TV 
 http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/salamtv.png" group-title="Religi",Salam TV 
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8 
