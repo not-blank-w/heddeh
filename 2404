@@ -84,6 +84,8 @@ http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/9523
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
 http://iptvtree.net:8080/resplice/534db280/82276
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/558de60c9b13b235776c7e532c7cb3d6.jpg" group-title="Kids",Universal Kids
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/70385
 #EXTINF:-1 tvg-logo="https://www.ytv.com/wp-content/themes/ytv-child/assets/images/thumbnail-generic.jpg" group-title="Kids", YTV
 http://iptvtree.net:8080/resplice/534db280/9199
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo 
