@@ -272,7 +272,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="Lokal",Elshinta TV 
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", GTV 
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hiindo.png" group-title="Lokal",Hi Indo 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", iNEWS 
@@ -316,7 +316,7 @@ http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", MNCTV 
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="Lokal", Mola Sports Free 
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Lokal", MTA TV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",Mytv 
@@ -6052,9 +6052,9 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28682
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/193457
 #EXTINF:-1 tvg-id="" tvg-name="US: Universal Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: Universal Channel
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6291
-#EXTINF:-1 tvg-id="" tvg-name="US: UNIVERSAL KIDS EAST" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: UNIVERSAL KIDS EAST
+#EXTINF:-1 tvg-id="" tvg-name="US: UNIVERSAL KIDS EAST" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",US: UNIVERSAL KIDS EAST
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6399
-#EXTINF:-1 tvg-id="" tvg-name="US: UNIVERSAL KIDS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: UNIVERSAL KIDS HD
+#EXTINF:-1 tvg-id="" tvg-name="US: UNIVERSAL KIDS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",US: UNIVERSAL KIDS HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/82276
 #EXTINF:-1 tvg-id="" tvg-name="US: Univision Austin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: Univision Austin
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/68843
