@@ -350,7 +350,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png"  group-title="Music",MTV Are you the One?
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbase.jpg" group-title="Music",MTV Base 
-http://iptvtree.net:8080/resplice/534db280/4733
+
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png"  group-title="Music",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
@@ -364,9 +364,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c77
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvclassic.jpg" group-title="Music",MTV Classic 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15452
 #EXTINF:-1 tvg-logo="http://epg4you.com/logos/mtvmusic.png" group-title="Music",MTV Classic
-http://iptvtree.net:8080/resplice/534db280/30906
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76806
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/clubmtvuk.jpg" group-title="Music",MTV Club 
-http://iptvtree.net:8080/resplice/534db280/4734
+
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5ea815a515d149000748ee9b/colorLogoPNG.png"  group-title="Music",MTV Cribs
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea815a515d149000748ee9b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG.png"  group-title="Music",MTV Dating
