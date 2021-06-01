@@ -70,11 +70,11 @@ http://pelicanhosting.xyz:80/gfqonnad/7685216494/86202
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
-https://nonton.site:8443/provision/pp/305
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/86203
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID
-https://nonton.site:8443/provision/pp/680
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Kids",Cartoonito 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/86205
 #EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
@@ -82,17 +82,17 @@ http://pelicanhosting.xyz:80/gfqonnad/7685216494/86208
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/86197
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
-https://nonton.site:8443/provision/pp/3479
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
-https://nonton.site:8443/provision/pp/213
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior 
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/86200
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior ID
-https://nonton.site:8443/provision/pp/213
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/86198
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",DreamWorks
-https://nonton.site:8443/provision/pp/32529
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",DreamWorks HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Kids",Ebs Kids
@@ -144,12 +144,12 @@ http://pelicanhosting.xyz:80/gfqonnad/7685216494/43657
 #EXTINF:-1 tvg-logo="https://www.ytv.com/wp-content/themes/ytv-child/assets/images/thumbnail-generic.jpg" group-title="Kids", YTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo 
-https://nonton.site:8443/provision/pp/14104
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="Lokal",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antara.png" group-title="Lokal",Antara TV
-https://nonton.site:8443/provision/pp/32586
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal", ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="Lokal",ARIRANG 
@@ -229,7 +229,7 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal",KOMPAS TV 
 http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="Lokal",Lingua 
-https://nonton.site:8443/provision/pp/14944
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",Magna TV 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/maxstreammusic.png" group-title="Lokal",MAXSTREAM Music 
@@ -470,15 +470,15 @@ http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",AMEDIA HIT HBO
 http://89.106.234.4/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movies",AXN
-https://nonton.site:8443/provision/pp/9
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="Movies",Bioskop Indonesia
-https://nonton.site:8443/provision/pp/908
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movies
-https://nonton.site:8443/provision/pp/5
+
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movies",Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movies",Cinemax 
-https://nonton.site:8443/provision/pp/30185
+
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/fox.png" group-title="Movies",Fox
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/s_ab/ab32e0ee56ece3fd3ba9561b568bbf4b.jpeg" group-title="Movies",Fox Crime
@@ -486,17 +486,17 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png" group-title="Movies",FoxFamilyMovie
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",FoxLife
-https://nonton.site:8443/provision/pp/94
+
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife (IDN)
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife (VN)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4975
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxmovies.png" group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium 
-https://nonton.site:8443/provision/pp/29603
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movies",Galaxy 
-https://nonton.site:8443/provision/pp/29604
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium 
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movies",Galaxy 
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",Halow Movies HD
 http://halowtv.online:8080/HalowTV/FSyzHfEhvb/138
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO 
@@ -506,11 +506,11 @@ http://ultrontv.xyz:80/carlos/12345/4554
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="Movies",HBO (USA)
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/685038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO Family
-https://nonton.site:8443/provision/pp/592
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO Family US
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/13741
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
-https://nonton.site:8443/provision/pp/591
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HkWSjGn.png" group-title="Movies",HBO POP SD
 
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbosig.png" group-title="Movies",HBO Signature
@@ -520,21 +520,21 @@ http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/685178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5ZuZBL.png" group-title="Movies",HBO ZONE
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/685177
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movies",HITS 
-https://nonton.site:8443/provision/pp/1195
+
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies",Hits Movie 
-https://nonton.site:8443/provision/pp/957
+
 #EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="Movies",IMC SD
-https://nonton.site:8443/provision/pp/35484
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movies",LifeTime 
-https://nonton.site:8443/provision/pp/866
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movies",LifeTime 
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Movies",Paramount Network US
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/677220
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movies",Red By HBO 
-https://nonton.site:8443/provision/pp/4832
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXDYf91/1200px-Sony-Channel-latam-logo-svg.png" group-title="Movies",SONY CHANNEL SD
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/6525
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movies",Star Chinese Movies Legend
-https://nonton.site:8443/provision/pp/1859
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" tvg-url="" group-title="PlutoTv",Pluto TV The Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1078,7 +1078,7 @@ http://66.206.39.25:8080/garry1/garry1/174802
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png""https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" tvg-url="" group-title="Premium",Animal Planet 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Premium",Animal Planet (IDN)
-https://nonton.site:8443/provision/pp/358
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7077
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Premium",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Premium", AXN 
@@ -1124,7 +1124,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci (VN)
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci Learning
-https://nonton.site:8443/provision/pp/36729
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/17640
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Premium",Discovery
@@ -1186,9 +1186,9 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nationalgeographic.jpg" group-title="Premium",National Geographic HD
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/4881
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Premium",Nat Geographic (IDN)
-https://nonton.site:8443/provision/pp/96
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People (IDN)
-https://nonton.site:8443/provision/pp/455
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild (IDN)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild 
@@ -1202,13 +1202,13 @@ http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/14325
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premium",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="Premium",Ruang Terampil
-https://nonton.site:8443/provision/pp/36731
+
 #EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="Premium",RUSSIA TODAY 
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premium",SKYNEWS 
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Premium",Smithsonian (IDN)
-https://nonton.site:8443/provision/pp/35998
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian Channel US
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/684763
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian Channel UK
@@ -1230,7 +1230,7 @@ http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uatv.png" group-title="Premium",UA 
 http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Premium",Waku Waku Japan
-https://nonton.site:8443/provision/pp/717
+
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/679668
 
@@ -1288,11 +1288,11 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682943
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sport 1 ID
-https://nonton.site:8443/provision/pp/728
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sports 2 
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682944
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sport 2 ID
-https://nonton.site:8443/provision/pp/729
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN Sports 3 
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682945
 #EXTINF:-1  tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
