@@ -1069,7 +1069,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci (VN)
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci Learning
-https://nonton.site:8443/provision/pp/36729
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/17640
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Premium",Discovery
@@ -1147,13 +1147,13 @@ http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/14325
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premium",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="Premium",Ruang Terampil
-https://nonton.site:8443/provision/pp/36731
+
 #EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="Premium",RUSSIA TODAY 
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="Premium",SKYNEWS 
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Premium",Smithsonian (IDN)
-https://nonton.site:8443/provision/pp/35998
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian Channel US
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/684763
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian Channel UK
@@ -1175,7 +1175,7 @@ http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uatv.png" group-title="Premium",UA 
 http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Premium",Waku Waku Japan
-https://nonton.site:8443/provision/pp/717
+
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/679668
 
@@ -1233,11 +1233,11 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682943
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sport 1 ID
-https://nonton.site:8443/provision/pp/728
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sports 2 
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682944
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sport 2 ID
-https://nonton.site:8443/provision/pp/729
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN Sports 3 
 http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682945
 #EXTINF:-1  tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
