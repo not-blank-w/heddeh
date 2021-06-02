@@ -184,7 +184,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tT3VThgL/mgs-tv.png" group-title="Lokal",MEGASWARA TV
 http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal",METRO TV 
-http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", MNCTV 
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="Lokal", Mola Sports Free 
@@ -204,7 +204,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMR83hnY/radar-tasikmalaya.png" group-title="Lokal",Radar Tasikmalaya TV
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", RCTI 
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="Lokal",Riau TV
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="Lokal", RRI NET 
