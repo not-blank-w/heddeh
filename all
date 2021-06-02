@@ -128,13 +128,13 @@ http://pelicanhosting.xyz:80/gfqonnad/7685216494/86217
 #EXTINF:-1 tvg-id="spacetoonplus" tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="Kids",SPACETOON 
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skycinemaanimationuk.jpg" group-title="Kids",Sky Cinema Animation 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/671336
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/5697
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TéléToon FR 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/436981
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tinypop.jpg" group-title="Kids",Tiny Pop UK
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/9523
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86218
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
@@ -429,7 +429,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a3
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png"  group-title="Music",MTV Dating
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf330ea5068259a32320fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhits.jpg" group-title="Music",MTV Hits 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/683777
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/436877
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png"  group-title="Music",MTV Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="http://kamiselaluada.com/img/mtv.png"  group-title="Music",MTV Live 
@@ -504,11 +504,11 @@ http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO 2
 http://ultrontv.xyz:80/carlos/12345/4554
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="Movies",HBO (USA)
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/685038
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/315607
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO Family
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO Family US
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/13741
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/5710
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HkWSjGn.png" group-title="Movies",HBO POP SD
@@ -516,23 +516,23 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbosig.png" group-title="Movies",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/HBO/premium-channel-hbo-signature-logo.jpg" group-title="Movies",HBO Signature (USA)
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/685178
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/5709
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5ZuZBL.png" group-title="Movies",HBO ZONE
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/685177
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/5706
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movies",HITS 
-
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/315626
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies",Hits Movie 
-
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/5683
 #EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="Movies",IMC SD
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movies",LifeTime 
-
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/38617
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Movies",Paramount Network US
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/677220
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/376
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movies",Red By HBO 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXDYf91/1200px-Sony-Channel-latam-logo-svg.png" group-title="Movies",SONY CHANNEL SD
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/6525
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/77224
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movies",Star Chinese Movies Legend
 
 
@@ -1126,37 +1126,37 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Premium",Da Vinci Learning
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Premium",Destination America
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/17640
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/39078
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Premium",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="disco" tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Premium",Discovery (IDN)
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Premium",Discovery Channel HD
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/684097
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/38638
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Premium",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Premium", Discovery Investigation
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/9521
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/38679
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryfamilyarb.jpg" group-title="Premium",Discovery Family 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/14396
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76769
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryhistory.jpg" group-title="Premium",Discovery History
 http://66.206.39.25:8080/garry1/garry1/303
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/200px-H%26h_Logo.svg.png" group-title="Premium",Discovery Home & Health
-
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/171529
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Premium",Discovery Life
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/4933
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science UK
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/684064
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76770
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science CA
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/315763
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Premium",Discovery Science US
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/4887
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="Premium",Discovery Science HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/discoveryturbo.jpg" group-title="Premium",Discovery Turbo
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/684074
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86099
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_Velocity_logo.jpg/180px-Discovery_Velocity_logo.jpg" group-title="Premium", Discovery Velocity
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/329513
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Premium",DMAX 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/684330
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86149
 #EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium",DW English 
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="Premium",DW TV ASIA 
@@ -1176,7 +1176,7 @@ http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium", Kix 
 http://rr.dens.tv/h/h07/01.m3u8 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="Premium",Love Nature
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/683989
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/315785
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium", MyCinema 
 http://rr.dens.tv/h/h90/S4/mnf.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="Premium",NASA TV 
@@ -1184,7 +1184,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Premium",National Geographic Asia
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nationalgeographic.jpg" group-title="Premium",National Geographic HD
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/4881
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/39151
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Premium",Nat Geographic (IDN)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Premium",Nat Geo People (IDN)
@@ -1192,13 +1192,13 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Premium",National Geographic Wild (IDN)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Premium",National Geographic Wild 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/13745
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/39152
 #EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Premium" , NHK World 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8 
 #EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Premium",Outdoor Channel Asia
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannelhd.jpg" group-title="Premium",Outdoor Channel HD 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/14325
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/371
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnwNL1XkAAwNYA.jpg" tvg-url="" group-title="Premium",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="Premium",Ruang Terampil
@@ -1210,9 +1210,9 @@ http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Premium",Smithsonian (IDN)
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian Channel US
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/684763
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76821
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Premium",Smithsonian Channel UK
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/671348
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premium", Sony GEM TV 
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Premium", Sony One 
@@ -1232,7 +1232,7 @@ http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Premium",Waku Waku Japan
 
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Premium",World Fishing Network
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/679668
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/410
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ahsantv.png" group-title="Religi",AHSAN TV 
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8 
@@ -1286,15 +1286,15 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sports 1 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682943
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/154082
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Sports",beIN Sport 1 ID
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sports 2 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682944
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/154083
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Sports",beIN Sport 2 ID
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Sports",beIN Sports 3 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/682945
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/154084
 #EXTINF:-1  tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT Sports 1 
