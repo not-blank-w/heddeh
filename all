@@ -243,7 +243,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", MNCTV 
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="Lokal", Mola Sports Free 
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Lokal", MTA TV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",Mytv 
@@ -1669,3 +1669,4 @@ http://astro4.rastream.com/opus
 https://astro4.rastream.com/osai
 #EXTINF:-1 tvg-id="terengganufm" tvg-logo="https://i.imgur.com/1EuqRNu.png" group-title="RADIO", Terengganu FM
 https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+
