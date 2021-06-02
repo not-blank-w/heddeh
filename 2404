@@ -73,13 +73,13 @@ http://pelicanhosting.xyz:80/gfqonnad/7685216494/86217
 #EXTINF:-1 tvg-id="spacetoonplus" tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="Kids",SPACETOON 
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skycinemaanimationuk.jpg" group-title="Kids",Sky Cinema Animation 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/671336
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/5697
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TéléToon FR 
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/436981
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tinypop.jpg" group-title="Kids",Tiny Pop UK
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/9523
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86218
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
@@ -374,7 +374,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a3
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png"  group-title="Music",MTV Dating
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf330ea5068259a32320fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhits.jpg" group-title="Music",MTV Hits 
-http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/683777
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72686
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png"  group-title="Music",MTV Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="http://kamiselaluada.com/img/mtv.png"  group-title="Music",MTV Live 
