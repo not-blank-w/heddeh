@@ -369,7 +369,20 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI PAPUA 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Music",24-7 Top 100 Mix
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/2
+#EXTINF:-1 tvg-logo="" group-title="Music",24-7 Tropical Mix
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/3
+#EXTINF:-1 tvg-logo="" group-title="Music",24-7 Retro Mix
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/4
+#EXTINF:-1 tvg-logo="" group-title="Music",24-7 Pop Mix
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/5
+#EXTINF:-1 tvg-logo="" group-title="Music",24-7 Vintage Mix
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
+#EXTINF:-1 tvg-logo="" group-title="Music",24-7 ConciertosLive Mix
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7 
+#EXTINF:-1 tvg-logo="" group-title="Music",24-7 PuroRock Mix
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B1YMJuYxBAw/maxresdefault.jpg" group-title="Music",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4PPstd.png" group-title="Music",ALB MUSIC
