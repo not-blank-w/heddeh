@@ -144,7 +144,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="Lokal",Elshinta TV 
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", GTV 
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hiindo.png" group-title="Lokal",Hi Indo 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", iNEWS 
@@ -186,7 +186,7 @@ http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal",METRO TV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", MNCTV 
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="Lokal", Mola Sports Free 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Lokal", MTA TV 
